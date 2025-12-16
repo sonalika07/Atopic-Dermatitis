@@ -1,0 +1,4 @@
+Gene_Symbol	log2FC	p-value
+CCL17	3.26	1.50E-03
+IL13RA2	2.6	4.80E-04
+NLRP10	2.05	9.70E-05
