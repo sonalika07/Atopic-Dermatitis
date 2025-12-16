@@ -1,0 +1,22 @@
+Symbol	Synonym(s)	Entrez Gene Name	Gene Symbol - human (HUGO / HGNC / Entrez Gene)	Expr Log Ratio	Expr p-value	Location	Family	Drugs	Entrez Gene ID for Human	Entrez Gene ID for Mouse	Entrez Gene ID for Rat
+Adhesion of phagocytes						Other	function				
+Agranulocyte Adhesion and Diapedesis						Other	canonical pathway				
+Attraction of leukocytes						Other	function				
+Attraction of lymphocytes						Other	function				
+Attraction of mononuclear leukocytes						Other	function				
+Attraction of myeloid cells						Other	function				
+Attraction of phagocytes						Other	function				
+Binding of endothelial cells						Other	function				
+Cell movement of lymphoma cell lines						Other	function				
+Chemoattraction of leukocytes						Other	function				
+Chemoattraction of myeloid cells						Other	function				
+Chemoattraction of phagocytes						Other	function				
+CXCL8	"C-X-C motif chemokine ligand 8, GCP-1, hnIL-8, IL8, LECT, LUCT, LYNAP, MDNCF, MONAP, Monocyte-derived neutrophil chemotactic factor, NAF, NAP-1, SCYB8"	C-X-C motif chemokine ligand 8	IL8	7.1835425	1.39E-08	Extracellular Space	cytokine	BMS-986253	3576		
+Granulocyte Adhesion and Diapedesis						Other	canonical pathway				
+IL1B	"IL-1, IL1-BETA, IL-1F2, IL-1 ?, interleukin 1 beta, Interleukin 1 ?, OAF, Osteoclast-Activating Factor, Pro-IL-1beta, Pro-IL-1?"	interleukin 1 beta	IL1B	2.864188	6.77E-05	Extracellular Space	cytokine	"FL-101, anakinra, rilonacept, AK114, canakinumab, gevokizumab, canakinumab/INS, canakinumab/metformin, canakinumab/metformin/sulfonylurea, canakinumab/colchicine, canakinumab/methotrexate, anakinra/methotrexate, gallium nitrate"	3553	16176	24494
+Migration of granulocytes						Other	function				
+Mobilization of granulocytes						Other	function				
+Mobilization of neutrophils						Other	function				
+OSM	"OncoM, ONCOSTATIN M"	oncostatin M	OSM	2.839296	9.47E-26	Extracellular Space	cytokine		5008	18413	289747
+TNF	"AT-TNF, DIF, IMD127, LOC103694380, RATTNF, TMTNF, TNF-a, TNF-alpha, TNF-?, TNFSF2, Tnfsf1a, TNLG1F, tumor necrosis factor, Tumor Necrosis Factor ?, tumor necrosis factor, ?, tumour necrosis factor, tumour Necrosis Factor Alpha, tumour Necrosis Factor ?, tumour necrosis factor, alpha, tumour necrosis factor, ?"	tumor necrosis factor				Extracellular Space	cytokine	"adalimumab/corticosteroid, adalimumab, etanercept, infliximab, certolizumab, golimumab, AF-B2637, AF-M2637, AF-M2630, tumor necrosis factor receptor antagonist, afelimomab, infliximab/methotrexate, dexamethasone/thalidomide, dexamethasone/pomalidomide, cyclophosphamide/dexamethasone/thalidomide, golimumab/methotrexate, bortezomib/dexamethasone/thalidomide, rituximab/thalidomide, bortezomib/thalidomide, prednisone/thalidomide, adalimumab/methotrexate, etanercept/methotrexate, pomalidomide, bortezomib/dexamethasone/pomalidomide, thalidomide, infliximab/methylprednisolone, infliximab/prednisone, certolizumab/methotrexate, bevacizumab/docetaxel/prednisone/thalidomide/zoledronic acid"	7124	21926	24835
+Transmigration of leukocytes						Other	function				
