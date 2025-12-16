@@ -1,0 +1,999 @@
+GeneSymbol	log2FC	p_value_or_padj	Dataset	Comparison	Direction	In_CTD_marker	In_CTD_therapeutic	In_CTD_inferred	In_GeneCards_AD	Species
+A2ML1	2.26	1.40E-06	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+ABCD2	-2.15	2.90E-05	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+ACTA1	-3.32	0.1	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+ADA2	3.87	8.70E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+ADAM8	2.07	0.00047	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+ADGRD1	3.1	6.41E-08	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+ADORA3	3.28	0.00592	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+AIF1	2.58	8.70E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+ALDH1A3	5.76	4.17E-14	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+ALDH3A1	3.52	2.02E-10	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+ALOX5AP	2.35	0.000513	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+ANGPTL7	3.69	6.16E-10	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+ANKRD1	-2.14	0.34	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+ANKRD9	-2.48	1.28E-05	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+APOBEC3A	2.98	0.012	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+APOC1	2.2	5.00E-05	PRJEB38104	Canine_DGEs	Up	yes	yes	no	no	Canine
+APOD	2.65	5.80E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+ARHGDIB	3.08	1.86E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+ASB5	-2.54	0.16	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+ATP2B2	-2.01	1.40E-05	GSE58442_24	Canine_24h	Down	yes	yes	no	no	Canine
+AWAT1	2.2	5.00E-05	PRJEB38104	Canine_DGEs	Up	yes	yes	no	no	Canine
+BAMBI	2.17	0.00444	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+BATF3	3.03	1.60E-09	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+BATF3	2.05	3.70E-06	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+BCAT1	2.19	2.00E-06	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+BCO2	3.69	7.13E-07	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+BIN2	4.15	2.27E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+BIRC3	3.02	2.30E-07	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+BPI	2.05	9.60E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+BPI	6.31	2.37E-10	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+BTK	3.01	0.000658	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+C1QA	3.06	2.65E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+C1QB	2.93	0.000313	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+C1QC	3.14	1.11E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+C3	2.01	2.20E-06	GSE58442_24	Canine_24h	Up	yes	yes	yes	no	Canine
+C3	3.66	9.60E-08	PRJNA1148493	Canine_DGEs	Up	yes	yes	yes	no	Canine
+C3AR1	4.17	1.14E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+C5AR1	2.43	8.60E-05	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+C5AR1	4.61	2.99E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+C7	5.99	1.12E-08	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CA3	-2.07	5.40E-07	GSE58442_24	Canine_24h	Down	yes	yes	no	no	Canine
+CA3	-2.24	0.0019	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+CACNA1I	-3.15	1.22E-06	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+CAMKV	-2.13	0.0051	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+CASP1	3.36	7.00E-10	GSE58442_24	Canine_24h	Up	yes	yes	yes	no	Canine
+CASP12	2.24	0.02	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CASP4	4.14	3.62E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CCL13	2.23	1.30E-09	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+CCL15	2.63	5.30E-06	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+CCL17	4.2	4.90E-10	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+CCL17	3.26	0.0015	GSE74136_24	Canine_24h	Up	yes	yes	no	yes	Canine
+CCL17	5.38	4.00E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+CCL19	3.18	1.20E-11	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+CCL19	2.41	7.00E-08	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+CCL2	3.05	3.90E-07	GSE58442_24	Canine_24h	Up	yes	yes	yes	yes	Canine
+CCL2	2.04	0.0027	GSE39278L_NL	Canine_DGEs	Up	yes	yes	yes	yes	Canine
+CCL20	3.26	4.00E-07	GSE58442_24	Canine_24h	Up	yes	yes	yes	yes	Canine
+CCL4	2.77	9.70E-07	GSE58442_24	Canine_24h	Up	yes	yes	yes	yes	Canine
+CCL5	2.35	7.00E-05	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+CCR1	3.55	0.000209	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+CCR5	3.63	7.06E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+CD163	5.91	2.70E-10	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CD180	4.34	8.63E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CD1E	2.28	3.20E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+CD209	2.06	5.50E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+CD300C	2.21	5.50E-07	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+CD36	14.67	1.40E-12	PRJNA1148493	Canine_DGEs	Up	yes	yes	yes	no	Canine
+CD3D	2.9	1.50E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+CD48	2.08	3.20E-06	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+CD48	2.75	0.00559	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CD53	3.62	0.00012	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CD68	3.8	6.96E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CD74	2.29	2.60E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+CD74	2.82	9.72E-07	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CD86	4.34	1.58E-07	PRJNA1148493	Canine_DGEs	Up	yes	yes	yes	yes	Canine
+CDA	2.12	3.30E-05	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+CDA	2.94	0.000572	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CDH9	-3.44	0.000374	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+CDO1	-2.03	1.30E-06	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+CHI3L1	3.65	4.80E-06	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+CHRDL1	3.3	1.58E-07	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CHRNB4	-2.17	3.75E-05	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+CKM	-3.51	0.094	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+CLDN11	5.45	5.61E-12	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CLDN8	2.3	5.00E-05	PRJEB38104	Canine_DGEs	Up	yes	yes	no	no	Canine
+CLEC4G	2.88	1.50E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+CLEC9A	2.16	8.60E-06	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+CLXN	-2.37	0.000598	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+CORO1A	2.57	9.50E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+CRISPLD2	2.95	2.67E-09	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CRLF1	4.07	4.70E-08	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CSF1R	3.36	1.60E-08	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CSF2	2.01	1.20E-05	GSE58442_24	Canine_24h	Up	yes	yes	yes	yes	Canine
+CSF2RA	2.07	1.50E-06	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+CSRP3	-3.02	0.21	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+CST7	2.15	5.10E-06	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+CTLA4	2.3	2.20E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+CTSC	2.87	3.11E-07	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+CTSH	2.86	1.19E-07	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CTSS	3.39	4.86E-12	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CX3CR1	4.63	1.68E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+CXCL8	2.45	0.028	GSE58442_24	Canine_24h	Up	yes	yes	yes	yes	Canine
+CXCL8	2.59	0.0098	GSE39278L_NL	Canine_DGEs	Up	yes	yes	yes	yes	Canine
+CXCL8	2.67	0.017	GSE39278_L	Canine_DGEs	Up	yes	yes	yes	yes	Canine
+CYBB	4.66	1.41E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+CYP1A2	2	5.00E-05	PRJEB38104	Canine_DGEs	Up	yes	yes	no	yes	Canine
+CYTH4	2.66	0.00089	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+DAPP1	3.06	0.000634	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+DNAH11	2.1	5.00E-05	PRJEB38104	Canine_DGEs	Up	yes	yes	no	no	Canine
+DRAM1	3.09	0.000102	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+EBF2	3.9	2.29E-09	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+EGFR	3.63	2.11E-09	PRJNA1148493	Canine_DGEs	Up	yes	yes	yes	no	Canine
+EGR4	2.4	0.023	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+EVI2B	2.23	3.00E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+EVI2B	3.33	4.71E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+F13A1	17.32	1.61E-14	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+F3	3.09	5.32E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+FABP3	-2.86	2.41E-14	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+FABP9	-2.2	5.00E-05	PRJEB38104	Canine_DGEs	Down	yes	yes	no	no	Canine
+FAM210B	2.24	0.015	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+FCER1A	2.15	5.50E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+FCGR1A	3.34	9.70E-07	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+FCGR1A	2.91	0.000384	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+FCGR3A	2.75	8.20E-07	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+FCGR3A	2.31	4.00E-08	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+FCGR3B	2.75	8.20E-07	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+FCGR3B	2.31	4.00E-08	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+FCMR	3.26	1.90E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+FERMT3	2.13	1.90E-06	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+FFAR2	2.6	2.30E-05	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+FGF6	2.51	0.0021	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+FGFR2	2.75	4.84E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+FGG	5.81	1.00E-07	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+FGL1	7.63	4.48E-12	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+FHL1	-2.25	8.70E-07	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+FMO2	-2.51	9.80E-06	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+FMO2	18.81	1.33E-11	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+FMO3	3.26	4.81E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+FOS	3.26	1.20E-08	GSE58442_24	Canine_24h	Up	yes	yes	yes	yes	Canine
+FOXS1	2.42	9.77E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+FREM1	2.23	7.22E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+FRZB	-2.02	3.40E-05	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+FZD2	3.18	5.67E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+GABRD	-2.82	0.000467	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+GAL3ST1	-2.35	1.40E-06	GSE58442_24	Canine_24h	Down	yes	yes	no	no	Canine
+GATM	2.23	1.80E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+GATM	2.25	3.70E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+GBP5	2.22	1.30E-05	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+GBP6	2.41	1.10E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+GHRH	-8.57	2.03E-06	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+GIMAP4	3.54	9.40E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+GJD2	-2.4	0.000776	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+GLRB	-2.03	5.40E-05	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+GNA15	3.12	0.00572	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+GPR171	2.38	7.40E-09	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+GPR171	3.02	4.60E-08	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+GPR65	2.14	5.20E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+GPR65	2.11	1.90E-05	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+GPX2	-2.88	1.74E-08	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+GSDMC	2.05	8.80E-06	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+HAVCR1	2.23	0.00189	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+HCLS1	3.9	1.52E-09	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+HHEX	2.89	0.0024	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+HK2	3.95	1.71E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+HLA-DMA	2.4	5.50E-08	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+HLA-DMB	2.04	1.50E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+HLA-DQA2	2.2	7.70E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+HLA-DQB1	2.01	1.70E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+HMGCS2	2.5	5.00E-05	PRJEB38104	Canine_DGEs	Up	yes	yes	no	no	Canine
+HP	3.14	1.30E-05	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+HP	2.32	0.00035	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+HVCN1	2.41	4.70E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+ICAM3	3.33	0.00024	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+ICOS	2.12	2.00E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+ID4	-2.92	0.01	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+IDO1	2.08	8.80E-06	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+IFNAR2	2.39	7.10E-07	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+IGFBP5	4.05	1.24E-08	PRJNA1148493	Canine_DGEs	Up	yes	yes	yes	no	Canine
+IKZF1	3.04	2.26E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+IL10RA	3.95	3.51E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+IL13	2.46	2.50E-07	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+IL13	2.44	1.80E-06	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+IL13RA2	3.17	3.80E-13	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+IL13RA2	2.6	0.00048	GSE74136_24	Canine_24h	Up	yes	yes	no	yes	Canine
+IL13RA2	4.19	8.80E-08	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+IL18	5.07	1.22E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	yes	yes	Canine
+IL18BP	2.2	6.90E-06	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+IL18BP	2.15	3.40E-06	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+IL18RAP	3.09	1.20E-05	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+IL20	2.16	0.014	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+IL2RG	3.78	0.000403	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+IL33	2.37	1.50E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+IL36G	-2.1	5.00E-05	PRJEB38104	Canine_DGEs	Down	yes	yes	no	yes	Canine
+IL6	4.52	2.70E-06	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+IL6	2.02	0.009	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+IL9	3.09	5.60E-05	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+INPP5D	3.8	2.28E-11	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+IQCD	3.47	5.68E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+IRAK4	3.01	0.0009	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+ISG20	2.26	5.80E-05	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+ISM1	4.5	5.03E-07	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+ITGAM	4.66	4.25E-11	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+ITGB2	3.94	1.26E-07	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+JAML	3.84	4.39E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+KCNE4	2.15	2.00E-05	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+KCNH6	-3.27	2.67E-09	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+KLHL41	-2.86	0.22	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+LAPTM5	4.82	6.31E-08	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+LBP	2.43	2.40E-05	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+LEP	-2.46	9.90E-06	GSE74136_48	Canine_48h	Down	yes	yes	no	yes	Canine
+LEP	2	5.00E-05	PRJEB38104	Canine_DGEs	Up	yes	yes	no	yes	Canine
+LGR6	-2.48	0.000448	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+LPAR3	-2.19	7.63E-05	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+LRRC25	3.38	0.00196	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+LTB	2.14	1.50E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+LTB	2.48	2.60E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+LTB	3.06	0.00867	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+LVRN	2.98	2.22E-07	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+LY86	2.11	2.70E-05	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+LY86	4.5	2.90E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+LYG1	-2.02	0.022	GSE39278_L	Canine_DGEs	Down	yes	yes	no	no	Canine
+LYN	2.93	2.04E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+MB	-2.05	0.2	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+MCEMP1	2.17	0.00011	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+MEOX1	2.9	3.66E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+METTL22	-2.29	6.24E-10	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+MILR1	3.37	0.000512	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+MLN	2	0.00056	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+MMP1	2.2	0.023	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+MMP12	2.8	5.10E-07	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+MPEG1	7.77	2.73E-11	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+MRC1	2.47	7.90E-12	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+MRC1	2.09	4.70E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+MRC1	4	3.51E-08	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+MRGPRD	-2.39	0.00351	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+MSR1	2.01	0.0012	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+MSR1	4.28	8.81E-07	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+MT-CO1	2.61	1.74E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+MYBPC1	-2.73	0.12	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+MYBPH	2.58	0.0027	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+MYH1	-2.65	0.2	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+MYH2	-4.91	0.044	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+MYL1	-3.8	0.11	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+MYLPF	-3.65	0.087	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+MYO1A	-2.36	1.92E-09	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+MYO1F	3.24	6.45E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+MYOZ1	-2.36	0.22	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+NCAN	-2.36	0.000324	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+NCF4	2.45	2.40E-06	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+NCF4	3.55	0.000285	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+NCKAP1L	3.15	7.18E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+NEIL1	-2.56	2.29E-09	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+NFAM1	7.29	1.13E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+NFKBID	2.41	0.00146	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+NLRP10	2.05	9.70E-05	GSE74136_24	Canine_24h	Up	yes	yes	no	no	Canine
+NLRP10	2.41	3.80E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+NNMT	2.78	4.40E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+NRAP	-2.01	0.28	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+OSCAR	2.9	3.80E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+P2RY12	4.54	0.00012	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+PARVG	2.66	0.0061	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+PDK4	-2.05	0.0013	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+PDZK1	2.1	5.00E-05	PRJEB38104	Canine_DGEs	Up	yes	yes	no	no	Canine
+PHEX	3.5	2.00E-07	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+PLAAT4	2.47	0.0024	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+PLAC8	2.85	1.40E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+PLEK	7.49	6.64E-12	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+PLEKHD1	-2.41	1.73E-08	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+PLSCR1	2.35	1.80E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+PODNL1	4.43	2.15E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+POSTN	2.03	5.30E-05	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+POSTN	2.22	0.00673	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+PPM1J	-2.73	4.70E-08	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+PRSS36	2.07	0.0078	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+PSMB9	-2	5.00E-05	PRJEB38104	Canine_DGEs	Down	yes	yes	no	yes	Canine
+PTPRC	3.63	6.09E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+PTX3	2.08	0.0024	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+PYCARD	3.37	0.000545	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+RAC2	2.34	8.20E-07	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+RGS1	2.1	2.10E-09	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+RGS1	2.13	1.70E-05	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+RGS18	5.06	2.36E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+RGS4	2.32	0.039	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+RTEL1	2.28	8.70E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+S100A12	3.12	3.70E-05	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+S100A12	2.31	0.014	GSE39278L_NL	Canine_DGEs	Up	yes	yes	no	yes	Canine
+S100A12	3.32	0.0093	GSE39278_L	Canine_DGEs	Up	yes	yes	no	yes	Canine
+S100A12	-3.3	5.00E-05	PRJEB38104	Canine_DGEs	Down	yes	yes	no	yes	Canine
+S100A8	4.95	1.20E-09	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+S100A8	2.6	3.90E-06	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+S100A8	2.41	0.0082	GSE39278_L	Canine_DGEs	Up	yes	yes	no	yes	Canine
+S100A8	-3.2	5.00E-05	PRJEB38104	Canine_DGEs	Down	yes	yes	no	yes	Canine
+S100A9	5.22	7.40E-09	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+S100A9	4.02	1.30E-06	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+S100A9	2.46	0.011	GSE39278L_NL	Canine_DGEs	Up	yes	yes	no	no	Canine
+S100A9	3.65	0.0062	GSE39278_L	Canine_DGEs	Up	yes	yes	no	no	Canine
+S100A9	-3.2	5.00E-05	PRJEB38104	Canine_DGEs	Down	yes	yes	no	no	Canine
+S100P	2.45	4.90E-06	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+SAA1	3.12	2.00E-09	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+SAA1	2.2	1.40E-05	GSE74136_48	Canine_48h	Up	yes	yes	no	no	Canine
+SAA2	4.12	2.00E-09	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+SAMSN1	2.59	1.10E-06	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+SAMSN1	4.5	7.22E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+SASH3	2.79	0.00124	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+SDSL	4.92	1.50E-09	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+SELL	3.43	0.00013	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+SELP	2.4	6.90E-05	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+SELPLG	2.42	0.0013	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+SELPLG	2.76	0.00012	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+SEPTIN14	-3.49	0.000236	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+SERPINA3	4.8	2.30E-07	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+SERPINB4	2.3	5.70E-09	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+SERPINB4	4	4.00E-08	GSE74136_48	Canine_48h	Up	yes	yes	no	yes	Canine
+SERPINB4	2.7	0.018	GSE39278_L	Canine_DGEs	Up	yes	yes	no	yes	Canine
+SERPING1	2.48	4.89E-07	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+SLAMF1	2.14	3.30E-06	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+SLC2A5	2.59	0.000472	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+SLC35F4	-2.36	0.00206	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+SLC38A5	3	0.000105	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+SPI1	3.61	9.81E-07	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+SPP2	2.58	9.55E-08	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+SRGN	2.01	3.80E-06	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+SRPX2	2.17	0.000327	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+STEAP4	3.1	4.20E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+SYNDIG1	2.11	7.10E-06	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+TAGAP	3.62	7.99E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+TBX18	3.41	1.29E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+TBXAS1	5.38	9.81E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+TESPA1	2.33	4.50E-07	GSE58442_24	Canine_24h	Up	yes	yes	no	yes	Canine
+TFPI2	2.43	2.30E-06	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+TFPI2	15.3	7.93E-25	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+THBS2	2.9	9.40E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+THBS4	6.77	1.12E-10	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+TIFAB	3.06	1.20E-11	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+TIMP1	2.53	2.30E-06	GSE58442_24	Canine_24h	Up	yes	yes	yes	yes	Canine
+TLR1	3.32	0.00012	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+TMEM182	-2.16	0.0011	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+TMIE	-3.34	1.68E-07	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+TNFAIP6	3.57	4.90E-06	GSE58442_24	Canine_24h	Up	yes	yes	yes	no	Canine
+TNFAIP6	2.16	6.50E-05	GSE74136_48	Canine_48h	Up	yes	yes	yes	no	Canine
+TNFSF9	2.56	3.60E-08	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+TNNC2	-3.71	0.076	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+TNNT3	-2.22	0.22	GSE74136_48	Canine_48h	Down	yes	yes	no	no	Canine
+TPBGL	-2.84	5.08E-07	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+TRAT1	2.31	0.00032	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+TRIM34	2.57	0.000232	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+UPP1	2.23	1.40E-07	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+VIT	2.67	5.06E-06	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+VSIG4	5.6	3.83E-11	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+VSTM5	-2.55	2.15E-06	PRJNA1148493	Canine_DGEs	Down	yes	yes	no	no	Canine
+VTN	3.56	1.04E-07	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+WFDC1	2.28	2.82E-05	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+XDH	5.25	5.34E-09	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	yes	Canine
+XG	2.37	0.000189	PRJNA1148493	Canine_DGEs	Up	yes	yes	no	no	Canine
+ZNF740	2.45	0.018	GSE58442_24	Canine_24h	Up	yes	yes	no	no	Canine
+AADACL4	3.6	5.00E-05	PRJEB38104	Canine_DGEs	Up					
+ADM5	3.43	2.82E-05	PRJNA1148493	Canine_DGEs	Up					
+C8orf74	2.6	7.90E-12	GSE58442_24	Canine_24h	Up					
+CCL23	2.63	5.30E-06	GSE58442_24	Canine_24h	Up					
+CLEC4M	2.06	5.50E-07	GSE74136_48	Canine_48h	Up					
+DLA-79	-2	5.00E-05	PRJEB38104	Canine_DGEs	Down					
+LOC100130520	2.33	7.30E-06	GSE74136_48	Canine_48h	Up					
+LOC100688842	6.4	5.00E-05	PRJEB38104	Canine_DGEs	Up					
+LOC100855989	2	0.00015	PRJEB38104	Canine_DGEs	Up					
+LOC100856765	6.8	5.00E-05	PRJEB38104	Canine_DGEs	Up					
+LOC102152183	-2.6	5.00E-05	PRJEB38104	Canine_DGEs	Down					
+LOC481309	2.9	5.00E-05	PRJEB38104	Canine_DGEs	Up					
+LOC483068	-2.1	5.00E-05	PRJEB38104	Canine_DGEs	Down					
+MT-ND5	4.12	3.08E-09	PRJNA1148493	Canine_DGEs	Up					
+MT-ND6	6.12	3.28E-12	PRJNA1148493	Canine_DGEs	Up					
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										

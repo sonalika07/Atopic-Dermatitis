@@ -1,0 +1,2684 @@
+GeneSymbol	log2FC	p_value_or_padj	Dataset	Comparison	Direction	In_CTD_marker	In_CTD_therapeutic	In_CTD_inferred	In_GeneCards_AD	Species
+ABCA8	-2.63	0.00036	GSE16161	L_N	Down	yes	yes	no	no	Human
+ABCB1	2.059338	0.012876	GSE6012_L	L_N	Up	yes	yes	yes	yes	Human
+ABCB11	-2.04597	5.74E-24	GSE121212	L_N	Down	yes	yes	no	no	Human
+ABCC11	2.625858	0.003762	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ABCC11	2.351544	0.006077	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ABCC11	2.233475	0.007096	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ABCC11	2.487989	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ABCC11	2.104423	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ABCC11	2.101043	0.002366	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ABCC12	2.002378	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ABCD2	2.262955	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ABCG4	4.101216	3.98E-25	GSE121212	L_N	Up	yes	yes	no	no	Human
+ABCG4	2.67	0.0014	GSE140227	L_N	Up	yes	yes	no	no	Human
+ABCG4	2.016825	0.025696	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ABI3BP	2.422999	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ACBD7	2.515309	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ACKR2	2.521764	4.09E-27	GSE121212	L_N	Up	yes	yes	no	no	Human
+ACKR3	-2.05	0.0005	GSE16161	L_N	Down	yes	yes	no	no	Human
+ACOT1	-2.39177	1.15E-23	18_L	L_N	Down	yes	yes	no	no	Human
+ACOX2	2.448381	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ACOXL	2.487812	0.025696	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+ACOXL	2.746006	0.011134	GSE6012_NL	NL_N	Up	yes	yes	no	yes	Human
+ACR	2.232322	0.022486	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ACR	2.343222	0.027708	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ACSM3	2.997802	0.002587	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+ACTC1	4.377535	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ACTN2	-2.04	0.0017	GSE140227	L_N	Down	yes	yes	no	no	Human
+ACTN2	-2.04	0.0017	GSE140227	L_N	Down	yes	yes	no	no	Human
+ACTN2	-2.04	0.0017	GSE140227	L_N	Down	yes	yes	no	no	Human
+ACTN2	-2.04	0.0017	GSE140227	L_N	Down	yes	yes	no	no	Human
+ADAM19	2.891842	3.38E-41	GSE121212	L_N	Up	yes	yes	no	no	Human
+ADAM23	2.0485	3.33E-21	GSE121212	L_N	Up	yes	yes	no	no	Human
+ADAM8	2.266792	7.54E-33	GSE121212	L_N	Up	yes	yes	no	yes	Human
+ADAMDEC1	2.330493	7.15E-29	18_L	L_N	Up	yes	yes	no	no	Human
+ADAMDEC1	3.40852	2.87E-10	GSE121212	L_N	Up	yes	yes	no	no	Human
+ADAMTS20	2.786866	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ADAMTS4	2.250537	1.60E-32	18_L	L_N	Up	yes	yes	no	yes	Human
+ADAMTS4	2.916299	1.03E-27	GSE121212	L_N	Up	yes	yes	no	yes	Human
+ADCYAP1	2.094409	0.000695	GSE121212	L_N	Up	yes	yes	no	no	Human
+ADGRF1	3.964896	2.21E-17	GSE121212	L_N	Up	yes	yes	no	no	Human
+ADH1B	-3.93	9.90E-05	GSE16161	L_N	Down	yes	yes	no	no	Human
+ADH6	-2.60495	5.83E-29	GSE121212	L_N	Down	yes	yes	no	no	Human
+ADIPOQ	-2.85	0.012	GSE16161	L_N	Down	yes	yes	no	yes	Human
+ADIPOQ	2.073888	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+ADIPOQ	2.422309	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+ADSSL1	2.372448	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ADSSL1	2.677368	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+AFF3	2.052737	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+AFM	2.916595	0.019223	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+AGBL4	-2.53643	1.43E-16	GSE121212	L_N	Down	yes	yes	no	no	Human
+AGR2	2.194344	0.037809	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+AGR3	-3.52907	3.94E-16	GSE121212	L_N	Down	yes	yes	no	no	Human
+AGTR1	-2.86	5.80E-06	GSE16161	L_N	Down	yes	yes	no	no	Human
+AIM2	2.480367	1.12E-17	GSE121212	L_N	Up	yes	yes	no	no	Human
+AKAP11	2.508044	0.03332	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+AKR1B10	4.324688	6.78E-94	18_L	L_N	Up	yes	yes	no	no	Human
+AKR1B10	4.155026	1.89E-45	GSE121212	L_N	Up	yes	yes	no	no	Human
+AKR1B10	4.43	2.20E-06	GSE16161	L_N	Up	yes	yes	no	no	Human
+AKR1B10	3.28	0.0013	GSE32924	L_N	Up	yes	yes	no	no	Human
+AKR1B10	2.44	0.00026	GSE75890	L_N	Up	yes	yes	no	no	Human
+AKR1B10	2.06	0.021	Acute_GSE36842	L_vs_NL	Up	yes	yes	no	no	Human
+AKR1B10	2.52	0.15	GSE59294	L_vs_NL	Up	yes	yes	no	no	Human
+AKR1B15	4.102868	2.79E-60	18_L	L_N	Up	yes	yes	no	no	Human
+AKR1B15	4.840855	2.73E-41	GSE121212	L_N	Up	yes	yes	no	no	Human
+AKR1B15	2.93	0.0011	GSE140227	L_N	Up	yes	yes	no	no	Human
+AKR1C3	-2.06	4.70E-05	GSE16161	L_N	Down	yes	yes	no	no	Human
+AKR1C3	2.542984	0.027708	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ALDH1A1	-2.08	2.30E-05	GSE16161	L_N	Down	yes	yes	no	no	Human
+ALDH3A2	2.223361	0.011134	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+ALOX15	3.737881	7.86E-44	GSE121212	L_N	Up	yes	yes	no	yes	Human
+ALPL	2.523742	0.037809	GSE6012_L	L_N	Up	yes	yes	yes	no	Human
+ALPL	2.257306	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	yes	no	Human
+ANGPTL4	2.456114	1.36E-24	GSE121212	L_N	Up	yes	yes	no	no	Human
+ANGPTL4	2.014385	0.000941	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ANGPTL7	3.464207	0.012876	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ANGPTL7	2.753135	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ANKAR	2.313394	0.03332	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+ANKK1	2.060281	0.025696	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ANKRD2	-2.13068	1.51E-14	GSE121212	L_N	Down	yes	yes	no	no	Human
+ANKRD34C	3.578918	1.41E-09	GSE121212	L_N	Up	yes	yes	no	no	Human
+ANKRD37	2.702801	0.025696	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ANKS1B	3.681731	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+AOAH	2.175155	0.000782	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+APBB3	2.074519	0.011134	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+APLP1	2.00559	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+APOBEC3A	3.812492	6.88E-28	18_L	L_N	Up	yes	yes	no	no	Human
+APOBEC3A	4.964041	4.86E-27	GSE121212	L_N	Up	yes	yes	no	no	Human
+APOBEC3A	2.02	3.40E-05	GSE58558	L_vs_NL	Up	yes	yes	no	no	Human
+APOBEC3A	2.31	0.24	GSE59294	L_vs_NL	Up	yes	yes	no	no	Human
+APOBEC3B	2.470787	4.56E-25	GSE121212	L_N	Up	yes	yes	no	no	Human
+APOBEC3B	2.13	5.10E-06	GSE16161	L_N	Up	yes	yes	no	no	Human
+APOD	-2.21	0.012	GSE16161	L_N	Down	yes	yes	no	no	Human
+APOL1	2.223425	3.82E-26	GSE121212	L_N	Up	yes	yes	no	no	Human
+AQP2	2.413748	0.000941	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+AQP2	2.066473	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+AQP9	-2.22	1.80E-07	GSE16161	L_N	Down	yes	yes	no	no	Human
+ARC	2.910318	1.66E-35	18_L	L_N	Up	yes	yes	no	no	Human
+AREG	2.950272	4.22E-37	18_L	L_N	Up	yes	yes	no	yes	Human
+AREG	2.77054	2.79E-11	GSE121212	L_N	Up	yes	yes	no	yes	Human
+ARG1	-2.1	0.022	GSE16161	L_N	Down	yes	yes	no	yes	Human
+ARG1	3.062779	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+ARG1	2.494527	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+ARHGEF12	2.390058	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ARHGEF4	2.30623	0.001919	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ARL14	2.552527	4.63E-15	18_L	L_N	Up	yes	yes	no	no	Human
+ARL14	3.383139	2.52E-22	GSE121212	L_N	Up	yes	yes	no	no	Human
+ARMC6	2.154087	0.002279	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ARSI	2.435886	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ASB5	2.44013	0.042802	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ASB5	2.492925	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ASCL1	2.44922	0.042802	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ASPA	2.022156	0.001128	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ASPRV1	-2.24	0.009	GSE32924	L_N	Down	yes	yes	no	yes	Human
+ASS1	2.037957	0.002366	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ASTN1	2.050221	0.011134	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+ASZ1	2.649181	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ATF3	2.571103	6.12E-30	18_L	L_N	Up	yes	yes	yes	no	Human
+ATG4B	2.38572	0.019631	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+ATP12A	2.67924	1.22E-12	GSE121212	L_N	Up	yes	yes	no	yes	Human
+ATP12A	3.11	0.0042	GSE75890	L_N	Up	yes	yes	no	yes	Human
+ATP6V0D2	4.007804	0.000246	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ATP6V0D2	2.689392	0.003762	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ATP6V0D2	2.384574	0.000164	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ATP6V0D2	2.910367	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ATP6V0D2	2.097692	0.002366	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ATP6V0D2	2.28376	0.025696	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+ATP6V1B1	2.298083	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+ATP6V1B1	2.019364	0.048341	GSE6012_NL	NL_N	Up	yes	yes	no	yes	Human
+AVIL	3.856251	0.000537	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+AVIL	2.201859	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+B3GNT6	4.071417	1.60E-11	GSE121212	L_N	Up	yes	yes	no	no	Human
+BAMBI	2.69258	0.019631	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+BAMBI	2.515297	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+BATF3	2.604678	8.40E-17	GSE121212	L_N	Up	yes	yes	no	yes	Human
+BCAT1	2.191701	0.000443	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+BCL2A1	3.57815	0.000201	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+BCL2A1	2.713989	0.000246	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+BCL2A1	2.529131	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+BCL2A1	2.3453	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+BCL2L14	2.911632	0.019223	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+BFSP2	2.127958	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+BFSP2	2.880799	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+BIRC3	2.227674	1.22E-29	GSE121212	L_N	Up	yes	yes	no	no	Human
+BIRC3	3.710957	0.018127	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+BIRC3	3.142633	0.001919	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+BIRC3	2.536021	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+BLVRB	2.373572	0.005192	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+BMP3	-3.34528	9.58E-20	GSE121212	L_N	Down	yes	yes	no	no	Human
+BMP3	-2.02	0.0022	GSE140227	L_N	Down	yes	yes	no	no	Human
+BMP8B	2.110951	0.011134	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+BNC2	2.663541	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+BPI	2.274847	7.06E-05	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+BPI	2.158792	0.000201	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+BTC	-2.07024	2.16E-24	18_L	L_N	Down	yes	yes	no	no	Human
+BTC	-3.82721	4.07E-71	GSE121212	L_N	Down	yes	yes	no	no	Human
+BTC	-2.94	0.0016	GSE140227	L_N	Down	yes	yes	no	no	Human
+BTC	-2.78	2.50E-06	GSE16161	L_N	Down	yes	yes	no	no	Human
+BTC	-3.04	3.10E-07	GSE32924	L_N	Down	yes	yes	no	no	Human
+BTC	-2.5	0.00021	GSE75890	L_N	Down	yes	yes	no	no	Human
+C1QL1	2.172599	0.037809	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+C1QTNF4	2.048527	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+C3	2.072511	0.011134	GSE6012_L	L_N	Up	yes	yes	yes	no	Human
+C5AR1	5.682921	0.000201	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+C5AR1	2.752614	0.000537	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+C5AR1	3.010996	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+C5AR1	2.361285	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+CA1	2.015276	0.048341	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+CA4	2.525812	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CA4	2.115719	0.002279	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CACNA1H	-3.1844	1.50E-13	GSE121212	L_N	Down	yes	yes	no	no	Human
+CACNG3	2.077223	0.007096	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CADM1	2.055805	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CALU	2.103126	0.030276	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CAMP	3.795059	8.74E-12	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CARD11	2.171725	0.025696	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+CASP14	2.29283	0.022486	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+CASP4	3.52842	7.06E-05	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CASP4	2.664856	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CASQ1	2.730877	0.004425	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+CBLN2	-2.38	0.04	Acute_GSE36842	L_vs_NL	Down	yes	yes	no	no	Human
+CBLN2	-2.28	0.21	Chronic_GSE36842	L_vs_NL	Down	yes	yes	no	no	Human
+CBLN4	-3.47147	3.08E-07	GSE121212	L_N	Down	yes	yes	no	no	Human
+CCDC121	2.012079	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CCDC70	2.843648	0.019631	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CCDC88B	2.358795	0.005192	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CCDC88B	2.005946	0.039243	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CCK	2.073955	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CCK	2.606751	0.037809	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CCK	2.022299	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CCK	2.244546	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CCK	3.788284	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CCK	5.369899	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CCL1	3.395548	3.81E-08	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CCL13	2.796754	1.53E-19	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CCL13	2.14	0.0086	GSE5667	L_N	Up	yes	yes	no	yes	Human
+CCL13	2.09	0.029	Acute_GSE36842	L_vs_NL	Up	yes	yes	no	yes	Human
+CCL17	2.021063	6.73E-13	18_L	L_N	Up	yes	yes	no	yes	Human
+CCL17	3.482405	1.12E-18	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CCL17	2.177283	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+CCL18	2.898499	8.51E-36	18_L	L_N	Up	yes	yes	no	yes	Human
+CCL18	4.798442	3.07E-31	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CCL18	2.64	0.0014	GSE16161	L_N	Up	yes	yes	no	yes	Human
+CCL18	2.87	0.0001	GSE32924	L_N	Up	yes	yes	no	yes	Human
+CCL18	3.46	2.60E-05	GSE5667	L_N	Up	yes	yes	no	yes	Human
+CCL18	2.46	0.0018	GSE75890	L_N	Up	yes	yes	no	yes	Human
+CCL18	3	0.018	Acute_GSE36842	L_vs_NL	Up	yes	yes	no	yes	Human
+CCL18	2.39	0.0056	GSE27887	L_vs_NL	Up	yes	yes	no	yes	Human
+CCL19	2.193609	7.15E-17	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CCL19	2.484345	0.008266	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+CCL19	2.503155	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+CCL2	2.324453	1.40E-23	GSE121212	L_N	Up	yes	yes	yes	yes	Human
+CCL2	2.955049	0.003191	GSE6012_L	L_N	Up	yes	yes	yes	yes	Human
+CCL2	4.226186	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	yes	yes	Human
+CCL22	2.54606	2.14E-33	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CCL26	2.01	3.80E-05	GSE32924	L_N	Up	yes	yes	no	yes	Human
+CCL28	2.012708	0.019223	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CCL3	2.528318	1.43E-05	GSE121212	L_N	Up	yes	yes	yes	yes	Human
+CCL4	2.592798	6.26E-07	GSE121212	L_N	Up	yes	yes	yes	yes	Human
+CCL7	2.947026	2.34E-05	GSE121212	L_N	Up	yes	yes	yes	yes	Human
+CCL8	3.540267	0.001128	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CCL8	2.152592	0.001919	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CCL8	3.358701	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CCL8	2.930602	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CCNB1	2.33	0.0002	GSE16161	L_N	Up	yes	yes	yes	no	Human
+CCNJL	2.430794	0.012876	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+CCR1	4.487162	8.74E-05	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+CCR1	3.332407	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+CCR3	2.966158	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+CCR4	2.239176	1.97E-17	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CCR7	2.459942	3.40E-28	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CD177	2.506517	2.06E-17	18_L	L_N	Up	yes	yes	no	no	Human
+CD177	6.088659	1.57E-20	GSE121212	L_N	Up	yes	yes	no	no	Human
+CD177	2.06	0.0397	GSE140227	L_N	Up	yes	yes	no	no	Human
+CD177	2.47	0.002	GSE75890	L_N	Up	yes	yes	no	no	Human
+CD1B	3.246481	7.22E-21	GSE121212	L_N	Up	yes	yes	no	no	Human
+CD226	2.106078	1.27E-21	GSE121212	L_N	Up	yes	yes	no	no	Human
+CD274	2.288302	2.65E-31	GSE121212	L_N	Up	yes	yes	no	no	Human
+CD274	2.841254	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CD28	2.1147	4.25E-17	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CD48	2.623863	0.0003	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CD48	2.092749	0.000443	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CD5L	3.118965	0.037809	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CD8A	2.512575	0.019631	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+CDA	3.42506	0.000782	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CDA	3.376586	0.000108	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CDA	2.506017	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CDA	2.472292	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CDC20	2.6	2.40E-05	GSE16161	L_N	Up	yes	yes	yes	no	Human
+CDC42BPA	2.591944	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CDC42BPA	2.462583	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CDH12	-2.07413	2.02E-28	18_L	L_N	Down	yes	yes	no	no	Human
+CDH12	-2.4311	1.10E-14	GSE121212	L_N	Down	yes	yes	no	no	Human
+CDSN	-2.89	0.00025	GSE16161	L_N	Down	yes	yes	no	yes	Human
+CELSR3	2.519815	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CEP55	2.7	7.10E-06	GSE16161	L_N	Up	yes	yes	no	no	Human
+CES1	-2.00275	3.87E-19	GSE121212	L_N	Down	yes	yes	no	no	Human
+CFD	-2.34	0.00042	GSE16161	L_N	Down	yes	yes	no	no	Human
+CFH	-2.36	0.0016	GSE16161	L_N	Down	yes	yes	no	no	Human
+CFP	3.547921	0.0027	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CH25H	2.803182	1.56E-20	GSE121212	L_N	Up	yes	yes	no	no	Human
+CHAC1	2.391577	4.05E-28	18_L	L_N	Up	yes	yes	no	no	Human
+CHAC1	3.19479	4.65E-16	GSE121212	L_N	Up	yes	yes	no	no	Human
+CHAT	4.05267	8.80E-08	GSE121212	L_N	Up	yes	yes	no	no	Human
+CHI3L1	4.634703	0.004425	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+CHI3L1	4.055177	0.001919	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+CHI3L1	3.907468	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+CHI3L1	3.101768	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+CHI3L2	3.63928	4.22E-41	GSE121212	L_N	Up	yes	yes	no	no	Human
+CHI3L2	2.46	0.0042	GSE75890	L_N	Up	yes	yes	no	no	Human
+CHRDL1	-2.94	0.00013	GSE16161	L_N	Down	yes	yes	no	no	Human
+CHRM2	-2.01369	2.25E-05	GSE121212	L_N	Down	yes	yes	no	yes	Human
+CHRM4	-2.25336	6.69E-18	18_L	L_N	Down	yes	yes	no	no	Human
+CHRM4	-5.15625	3.25E-82	GSE121212	L_N	Down	yes	yes	no	no	Human
+CHRNA6	3.674812	4.42E-10	GSE121212	L_N	Up	yes	yes	no	no	Human
+CHRNA6	2.080803	0.042802	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+CHRNA9	2.120499	1.27E-12	GSE121212	L_N	Up	yes	yes	no	no	Human
+CHST1	2.24726	6.71E-17	GSE121212	L_N	Up	yes	yes	no	no	Human
+CILP	-2.08	0.00053	GSE16161	L_N	Down	yes	yes	no	no	Human
+CITED2	-2.48	4.10E-07	GSE16161	L_N	Down	yes	yes	no	no	Human
+CKAP5	2.48708	0.004425	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+CLC	2.18618	1.34E-10	18_L	L_N	Up	yes	yes	no	yes	Human
+CLCA4	2.453785	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CLCN1	2.962577	1.13E-12	GSE121212	L_N	Up	yes	yes	no	no	Human
+CLDN23	-2.02567	1.56E-25	GSE121212	L_N	Down	yes	yes	no	no	Human
+CLDN3	2.20673	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CLDND2	2.60357	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CLEC10A	2.331927	4.81E-24	GSE121212	L_N	Up	yes	yes	no	no	Human
+CLEC4C	2.454024	1.27E-07	GSE121212	L_N	Up	yes	yes	no	no	Human
+CLEC4G	2.942801	0.001611	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CLEC7A	2.764107	4.28E-64	GSE121212	L_N	Up	yes	yes	no	no	Human
+CNBD1	2.962626	0.0027	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CNGB1	3.391268	1.74E-18	GSE121212	L_N	Up	yes	yes	no	no	Human
+CNOT4	2.009768	0.025285	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CNTNAP5	2.21176	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+COCH	-2.25	0.00035	GSE16161	L_N	Down	yes	yes	no	no	Human
+COL10A1	2.021842	0.043784	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+COL11A2	2.0551	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+COL13A1	2.052193	0.019223	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+COL22A1	2.115373	4.70E-07	GSE121212	L_N	Up	yes	yes	no	no	Human
+COL4A4	2.171797	2.29E-29	GSE121212	L_N	Up	yes	yes	no	no	Human
+COL6A6	2.191755	3.19E-25	18_L	L_N	Up	yes	yes	no	no	Human
+COL6A6	3.346821	4.05E-31	GSE121212	L_N	Up	yes	yes	no	no	Human
+COL6A6	2.76	0.0002	GSE32924	L_N	Up	yes	yes	no	no	Human
+COL7A1	2.190764	0.03332	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+CPA3	-2.25	0.00081	GSE16161	L_N	Down	yes	yes	no	yes	Human
+CPA3	2.162772	0.000108	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+CPA5	2.055468	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CPA6	2.602961	0.000169	GSE121212	L_N	Up	yes	yes	no	no	Human
+CPA6	2.480784	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CPB2	2.655367	0.042802	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CPO	2.214335	0.042802	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CRCT1	-3.59	2.30E-05	GSE16161	L_N	Down	yes	yes	no	no	Human
+CRCT1	-2.38	0.014	GSE32924	L_N	Down	yes	yes	no	no	Human
+CRIP3	2.114728	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CRISP3	3.919636	0.029295	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CRISP3	2.019501	0.027708	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CRISPLD1	2.024985	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CRYAA	2.679671	0.012876	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CRYAA	2.593707	0.009605	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+CSF2	2.763723	1.07E-12	GSE121212	L_N	Up	yes	yes	yes	yes	Human
+CSF3	2.614228	8.80E-14	18_L	L_N	Up	yes	yes	no	yes	Human
+CST2	2.726973	1.73E-05	GSE121212	L_N	Up	yes	yes	no	no	Human
+CST6	-3.75	0.00014	GSE16161	L_N	Down	yes	yes	no	yes	Human
+CST6	-2.88	4.90E-05	GSE32924	L_N	Down	yes	yes	no	yes	Human
+CST7	2.130666	5.87E-23	GSE121212	L_N	Up	yes	yes	no	no	Human
+CTLA4	2.930417	9.80E-19	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CTNNA2	2.333677	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CTNNA2	2.549975	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CTNND2	2.590656	0.046399	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CTNND2	2.942797	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+CTRL	2.8849	0.008266	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+CTSC	2.196598	9.16E-46	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CTSS	2.101653	0.000537	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CTSV	-2.77	6.30E-06	GSE16161	L_N	Down	yes	yes	no	no	Human
+CTSV	-2.34	4.20E-05	GSE32924	L_N	Down	yes	yes	no	no	Human
+CXCL1	2.433331	2.79E-23	18_L	L_N	Up	yes	yes	yes	yes	Human
+CXCL1	4.219602	1.47E-19	GSE121212	L_N	Up	yes	yes	yes	yes	Human
+CXCL10	2.574019	3.98E-21	18_L	L_N	Up	yes	yes	no	yes	Human
+CXCL10	3.15485	5.64E-09	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CXCL10	3.331182	0.048341	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+CXCL10	2.194908	0.022486	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+CXCL10	2.27	0.045	GSE75890	L_N	Up	yes	yes	no	yes	Human
+CXCL11	3.19535	1.06E-08	GSE121212	L_N	Up	yes	yes	yes	yes	Human
+CXCL13	4.00169	3.79E-07	GSE121212	L_N	Up	yes	yes	no	no	Human
+CXCL2	3.158035	3.35E-37	18_L	L_N	Up	yes	yes	yes	no	Human
+CXCL6	4.920878	2.81E-07	GSE121212	L_N	Up	yes	yes	no	no	Human
+CXCL8	3.69667	9.17E-35	18_L	L_N	Up	yes	yes	yes	yes	Human
+CXCL8	4.224304	8.02E-15	GSE121212	L_N	Up	yes	yes	yes	yes	Human
+CXCL9	3.073766	7.32E-09	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CXCL9	2.1	0.057	GSE75890	L_N	Up	yes	yes	no	yes	Human
+CXCR1	2.401266	7.12E-27	18_L	L_N	Up	yes	yes	no	yes	Human
+CXCR1	2.144071	1.04E-13	GSE121212	L_N	Up	yes	yes	no	yes	Human
+CXCR2P1	2.383951	1.34E-09	GSE121212	L_N	Up	yes	yes	no	no	Human
+CXCR4	2.059336	4.39E-20	GSE121212	L_N	Up	yes	yes	yes	yes	Human
+CYBB	2.683086	0.000365	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CYBB	2.636605	0.000649	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CYBB	2.459579	0.000108	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+CYP1A1	-2.98193	5.67E-12	GSE121212	L_N	Down	yes	yes	no	no	Human
+CYP1A1	2.391187	1.03E-12	18_NL_N	NL_N	Up	yes	yes	no	no	Human
+CYP1A2	-3.65754	7.14E-11	GSE121212	L_N	Down	yes	yes	no	yes	Human
+CYP2W1	-2.00108	1.64E-18	GSE121212	L_N	Down	yes	yes	no	no	Human
+CYP4F35P	4.838718	2.55E-11	GSE121212	L_N	Up	yes	yes	no	no	Human
+D2HGDH	2.507097	0.007096	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+DAB2IP	2.19011	0.048341	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+DAPL1	2.092453	0.037809	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+DAPL1	2.099242	0.002366	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+DAW1	-3.29952	6.01E-14	GSE121212	L_N	Down	yes	yes	no	no	Human
+DCN	-2.07	0.00027	GSE16161	L_N	Down	yes	yes	no	no	Human
+DCT	2.24223	0.007096	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+DCT	2.004561	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+DDX3Y	-2.07	0.088	GSE75890	L_N	Down	yes	yes	no	no	Human
+DDX60	2.912722	0.003191	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+DDX60	2.493882	0.0027	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+DDX60	2.153515	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+DEFB103B	4.014252	3.47E-11	GSE121212	L_N	Up	yes	yes	no	yes	Human
+DEFB4A	2.697092	4.14E-45	18_L	L_N	Up	yes	yes	no	yes	Human
+DEFB4A	6.575763	2.48E-26	GSE121212	L_N	Up	yes	yes	no	yes	Human
+DEFB4A	3.51	0.0048	GSE75890	L_N	Up	yes	yes	no	yes	Human
+DEFB4B	6.877666	4.72E-15	GSE121212	L_N	Up	yes	yes	no	yes	Human
+DES	2.306846	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+DHRS2	2.452909	0.009605	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+DHX58	3.46573	0.000164	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+DKK2	-2.76	5.60E-05	GSE16161	L_N	Down	yes	yes	no	no	Human
+DKK4	2.025689	1.60E-06	GSE121212	L_N	Up	yes	yes	no	no	Human
+DLGAP5	2.04	0.00058	GSE16161	L_N	Up	yes	yes	no	no	Human
+DLX3	2.207157	0.002366	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+DNAH11	3.362323	0.03332	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+DNAH11	4.789749	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+DNAH2	2.353596	0.027708	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+DNAH2	2.382158	0.002279	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+DNAJC3	2.310941	0.045463	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+DNAJC3	3.327301	0.019223	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+DNASE1L3	2.230229	1.69E-49	GSE121212	L_N	Up	yes	yes	no	no	Human
+DOCK2	2.150327	0.019631	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+DOLPP1	2.114915	0.022486	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+DPY19L2	2.199086	0.025696	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+DPYS	2.080019	0.029295	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+DRD3	2.700642	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+DRGX	2.482201	5.62E-14	GSE121212	L_N	Up	yes	yes	no	no	Human
+DSG4	2.624067	0.037809	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+DSG4	2.246568	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+DST	2.05949	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+DTNA	2.490624	0.03332	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+EBI3	2.560233	1.34E-09	GSE121212	L_N	Up	yes	yes	no	no	Human
+ECEL1	2.344454	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ECEL1	2.591963	0.046399	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ECM2	-2.01	0.00038	GSE16161	L_N	Down	yes	yes	no	no	Human
+EDEM1	3.599983	0.000443	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+EDEM1	2.361875	0.011134	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+EDN2	2.921572	4.84E-30	18_L	L_N	Up	yes	yes	no	no	Human
+EDN3	2.215561	0.000201	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+EFNA5	2.392486	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+EFNA5	2.549538	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+EGR4	3.964239	5.26E-39	18_L	L_N	Up	yes	yes	no	no	Human
+EGR4	2.968861	4.68E-07	GSE121212	L_N	Up	yes	yes	no	no	Human
+EHF	2.158337	0.006077	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+EIF1AY	-2.82	0.044	GSE75890	L_N	Down	yes	yes	no	no	Human
+ELAVL2	2.80819	0.030246	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ELAVL3	2.06534	0.039243	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ELF3	2.269475	2.17E-33	GSE121212	L_N	Up	yes	yes	no	no	Human
+ELF5	2.362748	2.84E-15	GSE121212	L_N	Up	yes	yes	no	no	Human
+ELMOD1	-2.36	2.10E-05	GSE32924	L_N	Down	yes	yes	no	no	Human
+EML5	2.436231	0.022486	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+EML5	4.164153	0.006077	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+ENKUR	3.119704	2.02E-18	GSE121212	L_N	Up	yes	yes	no	no	Human
+ENTPD7	2.681467	0.022486	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+EPGN	3.910063	7.81E-49	18_L	L_N	Up	yes	yes	no	no	Human
+EPGN	3.028161	4.20E-14	GSE121212	L_N	Up	yes	yes	no	no	Human
+EPO	2.012427	0.03332	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+EPSTI1	2.19368	1.18E-17	GSE121212	L_N	Up	yes	yes	no	no	Human
+ERBB4	-2.57882	3.50E-21	GSE121212	L_N	Down	yes	yes	no	no	Human
+EREG	-2.15	0.0073	GSE16161	L_N	Down	yes	yes	no	no	Human
+ERMN	2.031847	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ESPN	2.214221	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ESR1	3.170916	0.006077	GSE6012_L	L_N	Up	yes	yes	yes	yes	Human
+ESR1	2.774455	0.004425	GSE6012_NL	NL_N	Up	yes	yes	yes	yes	Human
+EXOC6	2.055156	0.029295	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+FABP7	-2.21392	1.31E-07	GSE121212	L_N	Down	yes	yes	no	no	Human
+FABP9	2.566172	0.014855	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+FABP9	2.06	0.27	GSE75890	L_N	Up	yes	yes	no	no	Human
+FABP9	2.429716	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+FADS1	2.392457	0.012876	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+FAM133A	-2.10155	1.90E-05	GSE121212	L_N	Down	yes	yes	no	no	Human
+FAR2	-2.25	0.017	GSE16161	L_N	Down	yes	yes	no	no	Human
+FBLN1	-2.45	1.30E-05	GSE16161	L_N	Down	yes	yes	no	no	Human
+FBN2	2.003455	4.30E-10	GSE121212	L_N	Up	yes	yes	no	yes	Human
+FBN2	2.261075	0.000443	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+FBN2	2.270068	0.005192	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+FBXL13	2.175451	0.002279	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+FBXL13	2.091248	0.010747	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+FBXO16	3.185849	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+FCER1A	2.187053	0.005192	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+FCER1A	2.008091	0.004425	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+FCER1G	2.08984	0.004425	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+FCGR1A	2.500711	0.001611	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+FCGR1A	2.221708	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+FCGR3A	2.317438	0.000164	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+FCGR3A	2.117042	0.0003	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+FCMR	2.006768	2.38E-16	GSE121212	L_N	Up	yes	yes	no	no	Human
+FCRLA	2.295539	0.005192	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+FER1L6	2.48012	1.48E-06	GSE121212	L_N	Up	yes	yes	no	no	Human
+FES	2.259979	0.007096	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+FEZ1	2.122922	0.004425	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+FEZ1	2.093177	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+FGF14	2.194163	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+FGF14	2.312167	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+FGG	2.488324	0.037776	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+FGG	2.684057	0.039243	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+FGG	2.336798	0.039243	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+FHL1	-2.44	0.00019	GSE16161	L_N	Down	yes	yes	no	no	Human
+FLG	-2.23	0.0051	GSE16161	L_N	Down	yes	yes	no	yes	Human
+FLT4	2.313969	0.003762	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+FMO2	3.087115	5.53E-21	GSE121212	L_N	Up	yes	yes	no	no	Human
+FMO2	2.21	0.00072	GSE75890	L_N	Up	yes	yes	no	no	Human
+FMR1NB	2.485068	0.017097	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+FOSB	2.793253	6.87E-28	18_L	L_N	Up	yes	yes	no	no	Human
+FOSL1	3.773803	1.55E-56	18_L	L_N	Up	yes	yes	yes	no	Human
+FOSL1	4.15665	7.02E-30	GSE121212	L_N	Up	yes	yes	yes	no	Human
+FOSL1	2.39	0.0023	GSE75890	L_N	Up	yes	yes	yes	no	Human
+FOSL1	2.72	0.21	Chronic_GSE36842	L_vs_NL	Up	yes	yes	yes	no	Human
+FOSL1	2.15	0.00013	GSE58558	L_vs_NL	Up	yes	yes	yes	no	Human
+FOSL1	2.158711	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	yes	no	Human
+FOXF1	2.016809	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+FPGS	2.412495	0.004425	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+FPGS	2.296955	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+FPR1	2.575386	4.63E-28	18_L	L_N	Up	yes	yes	no	no	Human
+FRK	2.016835	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+FSHR	2.057851	0.022486	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+FSIP1	2.210943	0.003191	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+FSIP1	2.251456	0.025696	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+FURIN	2.156472	0.014855	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+FUT3	2.579621	8.06E-27	GSE121212	L_N	Up	yes	yes	no	no	Human
+G0S2	-2.15	0.0035	GSE16161	L_N	Down	yes	yes	no	no	Human
+G6PD	2.56459	0.003191	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GAA	2.035219	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GABRB2	-2.10793	6.03E-14	GSE121212	L_N	Down	yes	yes	no	no	Human
+GABRD	-2.132	2.20E-08	GSE121212	L_N	Down	yes	yes	no	no	Human
+GAL	-2.43	0.019	GSE16161	L_N	Down	yes	yes	no	no	Human
+GAL3ST1	-2.48265	2.34E-10	GSE121212	L_N	Down	yes	yes	no	no	Human
+GALNT6	2.004355	6.23E-61	18_L	L_N	Up	yes	yes	no	no	Human
+GALNT6	2.054909	2.54E-40	GSE121212	L_N	Up	yes	yes	no	no	Human
+GALNT8	2.253889	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GALNT8	3.42179	0.0003	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+GALR1	2.168088	0.048341	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+GAP43	-2.29529	2.67E-10	GSE121212	L_N	Down	yes	yes	no	no	Human
+GBP1	2.549108	0.001128	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GBP1	2.451969	0.00135	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GBP1	2.260162	0.002279	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GBP1	2.031008	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GCH1	2.15174	0.014855	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GCH1	2.504189	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GDA	2.684115	1.57E-09	GSE121212	L_N	Up	yes	yes	no	no	Human
+GDA	2.11	0.015	GSE75890	L_N	Up	yes	yes	no	no	Human
+GIMAP4	2.011337	0.039243	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GIMAP5	2.837927	0.001128	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GIMAP5	2.331974	0.019223	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GIMAP8	2.046885	0.004425	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GJB2	2.898237	2.76E-38	GSE121212	L_N	Up	yes	yes	no	yes	Human
+GK	2.08284	0.001128	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+GK	2.034014	0.0003	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+GLIPR1	2.077177	0.000164	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GLRA3	-2.34787	1.06E-13	GSE121212	L_N	Down	yes	yes	no	no	Human
+GLRA3	2.764039	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GLRB	2.007565	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GLT6D1	-3.05333	1.34E-07	GSE121212	L_N	Down	yes	yes	no	no	Human
+GLYAT	2.319448	0.027708	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GNAT2	2.26041	0.017097	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+GNAZ	2.174538	0.037809	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+GNB3	2.30521	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GNG2	2.196558	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GNLY	2.184908	2.69E-15	GSE121212	L_N	Up	yes	yes	no	no	Human
+GNMT	2.490045	0.000941	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GNMT	2.671933	0.001919	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GNMT	2.203591	0.002366	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GOLGA2	2.217144	0.037809	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+GPR143	2.46032	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GPR158	3.25737	3.38E-13	GSE121212	L_N	Up	yes	yes	no	no	Human
+GPR65	3.314252	0.001919	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GPR65	2.250272	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GPRC5D	3.070786	0.03332	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GPRC5D	2.502114	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GPRIN1	2.236553	1.93E-50	18_L	L_N	Up	yes	yes	no	no	Human
+GPRIN1	2.942196	3.64E-43	GSE121212	L_N	Up	yes	yes	no	no	Human
+GPRIN1	2.06	0.0015	GSE140227	L_N	Up	yes	yes	no	no	Human
+GPSM3	3.034257	0.001611	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+GREM1	-2.49	0.00088	GSE16161	L_N	Down	yes	yes	no	no	Human
+GRIA4	2.704383	0.012876	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GRIA4	2.500196	0.010747	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GRID1	2.331963	0.037809	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GRIK2	2.024156	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GRIN3A	2.156466	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GSG1L	2.055458	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GSTO2	2.101208	0.037809	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+GSX2	-2.22174	4.00E-12	GSE121212	L_N	Down	yes	yes	no	no	Human
+GUCY1A2	2.160881	0.009605	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+GZMA	2.270534	0.027708	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+GZMB	2.291024	4.60E-22	18_L	L_N	Up	yes	yes	no	yes	Human
+GZMB	2.773662	2.84E-16	GSE121212	L_N	Up	yes	yes	no	yes	Human
+GZMB	3.255804	0.037809	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+GZMK	2.197443	0.019631	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+HABP2	2.299079	0.000386	GSE121212	L_N	Up	yes	yes	no	no	Human
+HAMP	2.51118	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+HAP1	2.836993	0.022486	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+HAP1	2.883384	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+HAS3	2.026694	2.04E-30	18_L	L_N	Up	yes	yes	no	no	Human
+HAS3	2.697398	1.37E-30	GSE121212	L_N	Up	yes	yes	no	no	Human
+HBB	-4.02	5.30E-05	GSE16161	L_N	Down	yes	yes	no	yes	Human
+HBB	-2.14	0.0013	GSE32924	L_N	Down	yes	yes	no	yes	Human
+HBEGF	2.127788	8.57E-16	GSE121212	L_N	Up	yes	yes	yes	no	Human
+HBEGF	2.21	0.0078	GSE75890	L_N	Up	yes	yes	yes	no	Human
+HEPHL1	3.462615	7.16E-56	18_L	L_N	Up	yes	yes	no	no	Human
+HEPHL1	5.316009	1.94E-43	GSE121212	L_N	Up	yes	yes	no	no	Human
+HEPHL1	3	0.003	GSE140227	L_N	Up	yes	yes	no	no	Human
+HEPHL1	3.9	0.00028	GSE75890	L_N	Up	yes	yes	no	no	Human
+HGD	2.145966	0.014855	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+HHIP	3.97117	0.0027	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+HHIP	3.182471	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+HMGA2	2.678274	3.80E-08	GSE121212	L_N	Up	yes	yes	no	no	Human
+HMGCLL1	2.213435	0.022486	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+HMGCLL1	2.551966	0.006077	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+HMGCLL1	2.231753	0.046399	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+HMOX1	3.080353	0.00135	GSE6012_L	L_N	Up	yes	yes	yes	yes	Human
+HMOX1	2.184016	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	yes	yes	Human
+HOXB3	2.268447	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+HOXC12	2.193357	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+HOXC13	3.075437	0.000443	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+HOXC13	2.598105	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+HPD	2.70976	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+HPGD	-2.12	5.00E-05	GSE16161	L_N	Down	yes	yes	no	yes	Human
+HPN	2.164632	0.012876	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+HPX	4.548033	0.000941	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+HPX	2.124512	0.029295	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+HPX	4.153803	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+HPX	2.25932	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+HRH1	2.136505	0.010747	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+HRH2	2.850676	1.47E-24	GSE121212	L_N	Up	yes	yes	no	yes	Human
+HRH3	2.664667	5.77E-21	18_L	L_N	Up	yes	yes	no	yes	Human
+HRH3	4.029619	5.14E-19	GSE121212	L_N	Up	yes	yes	no	yes	Human
+HRNR	3.645804	1.99E-29	18_L	L_N	Up	yes	yes	no	yes	Human
+HRNR	2.145338	9.10E-12	GSE121212	L_N	Up	yes	yes	no	yes	Human
+HS3ST3A1	3.432907	4.43E-26	GSE121212	L_N	Up	yes	yes	no	no	Human
+HS3ST5	-2.18032	3.76E-07	GSE121212	L_N	Down	yes	yes	no	no	Human
+HS3ST5	3.579751	1.85E-05	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+HS3ST5	3.075754	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+HSD11B1	-2.36016	9.06E-15	GSE121212	L_N	Down	yes	yes	no	no	Human
+HSD11B1	-3.5	5.10E-06	GSE16161	L_N	Down	yes	yes	no	no	Human
+HSD11B1	-2.69	0.00026	GSE32924	L_N	Down	yes	yes	no	no	Human
+HSD17B13	-2.71443	1.66E-12	GSE121212	L_N	Down	yes	yes	no	no	Human
+HSD17B13	2.381357	0.029295	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+HSD17B13	2.011162	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+HSD17B13	3.403052	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+HSPB3	2.426299	0.042802	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+HSPB3	2.227482	0.010747	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+HTR3A	2.116106	7.20E-20	18_L	L_N	Up	yes	yes	no	no	Human
+HTR3A	3.900296	1.62E-24	GSE121212	L_N	Up	yes	yes	no	no	Human
+HTR3A	2.39	0.00018	GSE75890	L_N	Up	yes	yes	no	no	Human
+HTR7	2.281767	1.16E-14	GSE121212	L_N	Up	yes	yes	no	no	Human
+HYOU1	2.566785	7.06E-05	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+HYOU1	2.341102	0.0003	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+IBSP	2.38169	0.006077	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ICA1L	2.635931	0.007096	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ICA1L	2.035724	0.037809	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+ICOS	2.713661	2.29E-21	GSE121212	L_N	Up	yes	yes	no	yes	Human
+IFI27	2.653244	3.29E-65	18_L	L_N	Up	yes	yes	yes	no	Human
+IFI27	3.812903	5.67E-24	GSE121212	L_N	Up	yes	yes	yes	no	Human
+IFI27	2.55	5.90E-06	GSE16161	L_N	Up	yes	yes	yes	no	Human
+IFI27	2.42	0.073	GSE5667	L_N	Up	yes	yes	yes	no	Human
+IFI44	2.129618	2.71E-12	GSE121212	L_N	Up	yes	yes	no	no	Human
+IFI44	2.160475	0.00135	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+IFI44	2.147925	0.0027	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+IFI6	2.114313	4.70E-29	18_L	L_N	Up	yes	yes	no	no	Human
+IFI6	2.104912	5.54E-09	GSE121212	L_N	Up	yes	yes	no	no	Human
+IFITM2	5.138019	0.019631	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+IFNE	3.91897	4.32E-09	GSE121212	L_N	Up	yes	yes	no	no	Human
+IFNG	2.057597	0.001394	GSE121212	L_N	Up	yes	yes	no	yes	Human
+IFNGR2	2.122752	0.008266	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+IGFL1	3.879128	6.26E-44	18_L	L_N	Up	yes	yes	no	no	Human
+IGFL1	3.074503	2.03E-12	GSE121212	L_N	Up	yes	yes	no	no	Human
+IGFL1	2.82	0.0017	GSE75890	L_N	Up	yes	yes	no	no	Human
+IGFL1	2.96	0.14	GSE59294	L_vs_NL	Up	yes	yes	no	no	Human
+IGHD	-2.46023	0.005489	GSE121212	L_N	Down	yes	yes	no	no	Human
+IGHG4	3.941422	0.000848	GSE121212	L_N	Up	yes	yes	no	no	Human
+IGSF9	3.127359	0.001128	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+IGSF9	2.601956	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+IKZF3	2.159409	0.017097	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+IL10	2.188722	2.87E-10	GSE121212	L_N	Up	yes	yes	no	yes	Human
+IL12A-AS1	-2.20824	1.55E-10	18_L	L_N	Down	yes	yes	no	no	Human
+IL12RB2	2.00309	0.03332	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+IL13	2.811681	8.47E-21	18_L	L_N	Up	yes	yes	no	yes	Human
+IL13	4.751647	8.82E-27	GSE121212	L_N	Up	yes	yes	no	yes	Human
+IL13RA2	2.565197	8.50E-18	18_L	L_N	Up	yes	yes	no	yes	Human
+IL13RA2	2.626918	6.42E-12	GSE121212	L_N	Up	yes	yes	no	yes	Human
+IL13RA2	2.018666	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+IL18BP	2.444094	0.000164	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+IL18BP	2.034231	0.002366	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+IL19	5.20333	4.41E-07	GSE121212	L_N	Up	yes	yes	no	yes	Human
+IL1B	2.789838	0.004425	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+IL1B	3.759116	0.027708	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+IL1B	2.864188	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+IL1F10	2.037772	0.000537	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+IL1RAPL1	2.037736	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+IL20	3.704678	3.58E-38	18_L	L_N	Up	yes	yes	no	no	Human
+IL20	5.30992	2.35E-20	GSE121212	L_N	Up	yes	yes	no	no	Human
+IL20	3.240007	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+IL20	2.350002	0.007096	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+IL22	2.131982	7.06E-13	18_L	L_N	Up	yes	yes	no	yes	Human
+IL22	5.67385	1.33E-25	GSE121212	L_N	Up	yes	yes	no	yes	Human
+IL24	3.305655	1.02E-15	18_L	L_N	Up	yes	yes	no	no	Human
+IL24	2.246518	2.11E-09	GSE121212	L_N	Up	yes	yes	no	no	Human
+IL2RA	3.172486	1.30E-24	GSE121212	L_N	Up	yes	yes	no	yes	Human
+IL2RG	2.224701	0.001919	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+IL36A	2.393093	9.43E-17	18_L	L_N	Up	yes	yes	no	no	Human
+IL36A	6.936098	1.45E-25	GSE121212	L_N	Up	yes	yes	no	no	Human
+IL36A	2.73	0.0074	GSE75890	L_N	Up	yes	yes	no	no	Human
+IL36G	2.388352	7.19E-51	18_L	L_N	Up	yes	yes	no	yes	Human
+IL36G	2.205022	9.27E-30	GSE121212	L_N	Up	yes	yes	no	yes	Human
+IL36G	2.07	1.50E-05	GSE75890	L_N	Up	yes	yes	no	yes	Human
+IL37	-2.54598	6.83E-35	GSE121212	L_N	Down	yes	yes	no	yes	Human
+IL37	-3.69	9.70E-09	GSE16161	L_N	Down	yes	yes	no	yes	Human
+IL37	-3.11	9.30E-07	GSE32924	L_N	Down	yes	yes	no	yes	Human
+IL37	-2.02	0.2	GSE59294	L_vs_NL	Down	yes	yes	no	yes	Human
+IL4I1	3.139445	2.27E-29	GSE121212	L_N	Up	yes	yes	no	no	Human
+IL6	3.903409	1.53E-28	18_L	L_N	Up	yes	yes	no	yes	Human
+IL6	3.505674	4.52E-07	GSE121212	L_N	Up	yes	yes	no	yes	Human
+IL6	13.72339	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+IL6	4.116434	0.002279	GSE6012_NL	NL_N	Up	yes	yes	no	yes	Human
+INA	2.079022	2.00E-29	18_L	L_N	Up	yes	yes	no	no	Human
+INA	2.126905	2.55E-29	GSE121212	L_N	Up	yes	yes	no	no	Human
+INA	2.32	7.20E-06	GSE75890	L_N	Up	yes	yes	no	no	Human
+INHA	2.824811	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+INHA	2.14857	0.037809	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+IQGAP3	2.2034	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+IRF7	2.11	2.40E-05	GSE16161	L_N	Up	yes	yes	no	no	Human
+IRS1	2.802746	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ISG15	2.108634	2.07E-29	18_L	L_N	Up	yes	yes	no	no	Human
+ISG15	8.793321	2.92E-05	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ISG15	2.298202	0.007096	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ISG15	5.844051	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ISG20	3.49207	0.000201	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ISG20	2.733481	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ITGAX	2.6368	1.78E-34	GSE121212	L_N	Up	yes	yes	no	yes	Human
+ITGB2	2.581238	0.000365	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+ITGB6	2.849274	0.023804	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ITGB6	2.051544	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ITK	2.032957	1.56E-22	GSE121212	L_N	Up	yes	yes	no	yes	Human
+IYD	2.215288	0.005192	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+JAK3	2.125041	9.86E-31	GSE121212	L_N	Up	yes	yes	no	yes	Human
+JAK3	2.177645	0.003191	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+JAKMIP1	2.253383	2.17E-07	GSE121212	L_N	Up	yes	yes	no	no	Human
+JRK	2.03486	0.012876	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KALRN	4.251117	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KCNE1	2.457836	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KCNE1	2.379318	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KCNJ5	2.80698	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KCNK10	2.727993	1.15E-20	GSE121212	L_N	Up	yes	yes	no	no	Human
+KCNK13	2.154672	1.71E-13	GSE121212	L_N	Up	yes	yes	no	no	Human
+KCNV1	-2.64182	6.04E-15	GSE121212	L_N	Down	yes	yes	no	no	Human
+KDM5D	-2.58	0.075	GSE75890	L_N	Down	yes	yes	no	no	Human
+KIF18B	2.29	9.00E-06	GSE16161	L_N	Up	yes	yes	no	no	Human
+KIF20A	2.45	8.40E-06	GSE16161	L_N	Up	yes	yes	no	no	Human
+KIF3C	2.063956	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KLB	2.249235	0.014855	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KLF7	2.652323	0.007096	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KLHDC7B	2.213525	2.46E-18	18_L	L_N	Up	yes	yes	no	no	Human
+KLHDC7B	3.362017	1.98E-19	GSE121212	L_N	Up	yes	yes	no	no	Human
+KLHL1	2.099798	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KLHL1	2.403312	0.000782	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+KLHL30	2.138573	0.042802	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KLK13	2.336472	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KLK2	2.491937	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KLK4	2.380233	0.005192	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KLK4	2.225802	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KLK5	-2.43	0.00077	GSE16161	L_N	Down	yes	yes	no	yes	Human
+KLK6	2.233248	3.97E-08	GSE121212	L_N	Up	yes	yes	no	yes	Human
+KLK6	2.75	0.0046	GSE75890	L_N	Up	yes	yes	no	yes	Human
+KLK8	2.044078	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KLK9	2.016608	1.55E-50	18_L	L_N	Up	yes	yes	no	no	Human
+KLK9	3.09	9.20E-09	GSE75890	L_N	Up	yes	yes	no	no	Human
+KMO	2.857627	0.00135	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KMO	2.026475	0.007096	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KMO	2.178031	0.003762	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+KRT16	4.456681	1.41E-78	18_L	L_N	Up	yes	yes	no	yes	Human
+KRT16	4.941924	1.13E-32	GSE121212	L_N	Up	yes	yes	no	yes	Human
+KRT16	4.29	7.80E-05	GSE16161	L_N	Up	yes	yes	no	yes	Human
+KRT16	3.6	0.00024	GSE32924	L_N	Up	yes	yes	no	yes	Human
+KRT16	3.04	0.066	GSE5667	L_N	Up	yes	yes	no	yes	Human
+KRT16	3.05	0.00013	GSE75890	L_N	Up	yes	yes	no	yes	Human
+KRT16	2.63	0.16	GSE5667_LvsNL	L_vs_NL	Up	yes	yes	no	yes	Human
+KRT16P1	2.362507	6.06E-19	18_L	L_N	Up	yes	yes	no	no	Human
+KRT16P1	4.183291	2.26E-14	GSE121212	L_N	Up	yes	yes	no	no	Human
+KRT16P2	2.365734	2.99E-19	18_L	L_N	Up	yes	yes	no	no	Human
+KRT16P2	3.494686	6.10E-17	GSE121212	L_N	Up	yes	yes	no	no	Human
+KRT16P2	2.69	0.0045	GSE140227	L_N	Up	yes	yes	no	no	Human
+KRT16P3	2.315809	8.98E-18	18_L	L_N	Up	yes	yes	no	no	Human
+KRT16P3	2.979596	7.30E-16	GSE121212	L_N	Up	yes	yes	no	no	Human
+KRT16P3	3.23	0.0028	GSE140227	L_N	Up	yes	yes	no	no	Human
+KRT16P6	3.907786	5.25E-19	GSE121212	L_N	Up	yes	yes	no	no	Human
+KRT16P6	2.11	0.0191	GSE140227	L_N	Up	yes	yes	no	no	Human
+KRT2	4.142434	0.006077	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+KRT25	2.97	0.16	GSE75890	L_N	Up	yes	yes	no	no	Human
+KRT26	3.191907	0.019631	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KRT26	2.882732	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KRT27	2.136374	0.014855	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KRT27	2.05	0.12	GSE75890	L_N	Up	yes	yes	no	no	Human
+KRT27	2.113594	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KRT28	3.222465	0.012876	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KRT28	2.914106	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KRT31	2.366974	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KRT31	3.048244	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KRT31	4.94453	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KRT32	3.012563	0.029295	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KRT32	2.56003	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KRT33B	3.744402	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KRT33B	3.02228	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KRT35	2.528855	0.037809	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KRT35	-2.08	0.55	Chronic_GSE36842	L_vs_NL	Down	yes	yes	no	no	Human
+KRT35	2.588235	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KRT5	2.759415	0.004425	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+KRT5	2.570647	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+KRT6A	3.234307	1.03E-45	18_L	L_N	Up	yes	yes	no	yes	Human
+KRT6A	4.008746	1.17E-25	GSE121212	L_N	Up	yes	yes	no	yes	Human
+KRT6B	2.224911	7.38E-15	18_L	L_N	Up	yes	yes	no	yes	Human
+KRT6B	2.313058	2.74E-10	GSE121212	L_N	Up	yes	yes	no	yes	Human
+KRT6B	2.32	0.0034	GSE140227	L_N	Up	yes	yes	no	yes	Human
+KRT6C	5.750519	4.93E-85	18_L	L_N	Up	yes	yes	no	yes	Human
+KRT6C	4.326399	7.26E-11	GSE121212	L_N	Up	yes	yes	no	yes	Human
+KRT6C	2.93	0.002	GSE140227	L_N	Up	yes	yes	no	yes	Human
+KRT6C	4.17	0.00098	GSE16161	L_N	Up	yes	yes	no	yes	Human
+KRT6C	3.53	0.0022	GSE32924	L_N	Up	yes	yes	no	yes	Human
+KRT6C	5.12	0.00065	GSE75890	L_N	Up	yes	yes	no	yes	Human
+KRT6C	2.19	0.19	GSE5667_LvsNL	L_vs_NL	Up	yes	yes	no	yes	Human
+KRT6C	2.17	0.00039	GSE58558	L_vs_NL	Up	yes	yes	no	yes	Human
+KRT6C	3.42	0.19	GSE59294	L_vs_NL	Up	yes	yes	no	yes	Human
+KRT72	3.68968	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KRT72	3.798142	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KRT77	-2.14182	1.67E-35	18_L	L_N	Down	yes	yes	no	yes	Human
+KRT77	-3.37667	1.54E-53	GSE121212	L_N	Down	yes	yes	no	yes	Human
+KRT77	-2.17	0.0052	GSE5667	L_N	Down	yes	yes	no	yes	Human
+KRT81	2.664996	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KRT81	2.340689	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KRT82	3.041927	0.03332	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+KRT82	2.41009	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+KRT85	3.51402	0.048341	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+KRT85	2.93697	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+KRT85	3.013122	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+KRTAP1-5	2.88	0.029	GSE75890	L_N	Up	yes	yes	no	no	Human
+KRTAP4-12	3.13	0.041	GSE75890	L_N	Up	yes	yes	no	no	Human
+KRTAP4-5	2.47	0.046	GSE75890	L_N	Up	yes	yes	no	no	Human
+KRTAP4-7	-2.3	0.014	GSE16161	L_N	Down	yes	yes	no	no	Human
+KRTAP4-8	3.21	0.042	GSE75890	L_N	Up	yes	yes	no	no	Human
+LAIR2	3.003797	4.11E-06	GSE121212	L_N	Up	yes	yes	no	no	Human
+LAMB1	2.085405	0.029295	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LAMB1	2.454375	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LAT2	2.425721	0.000365	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LCE2B	-4.4	2.60E-06	GSE16161	L_N	Down	yes	yes	no	no	Human
+LCE2B	-3.15	0.00031	GSE32924	L_N	Down	yes	yes	no	no	Human
+LCE3A	4.204277	2.65E-55	18_L	L_N	Up	yes	yes	no	yes	Human
+LCE3A	7.479031	3.60E-55	GSE121212	L_N	Up	yes	yes	no	yes	Human
+LCE3A	4.53	5.60E-05	GSE75890	L_N	Up	yes	yes	no	yes	Human
+LCE3B	3.241658	0.008546	GSE121212	L_N	Up	yes	yes	no	yes	Human
+LCE3C	2.90262	1.14E-20	18_L	L_N	Up	yes	yes	no	yes	Human
+LCE3C	4.576267	1.26E-08	GSE121212	L_N	Up	yes	yes	no	yes	Human
+LCE3D	4.27327	8.89E-85	18_L	L_N	Up	yes	yes	no	yes	Human
+LCE3D	5.423689	3.49E-63	GSE121212	L_N	Up	yes	yes	no	yes	Human
+LCE3D	2.88	0.0123	GSE140227	L_N	Up	yes	yes	no	yes	Human
+LCE3D	3.08	0.0088	GSE5667	L_N	Up	yes	yes	no	yes	Human
+LCE3D	3.49	1.30E-07	GSE75890	L_N	Up	yes	yes	no	yes	Human
+LCE3D	3.22	0.018	Acute_GSE36842	L_vs_NL	Up	yes	yes	no	yes	Human
+LCE3D	2.08	0.16	GSE5667_LvsNL	L_vs_NL	Up	yes	yes	no	yes	Human
+LCE3E	3.760817	8.92E-58	18_L	L_N	Up	yes	yes	no	no	Human
+LCE3E	5.285365	7.59E-49	GSE121212	L_N	Up	yes	yes	no	no	Human
+LCE3E	2.76	0.0133	GSE140227	L_N	Up	yes	yes	no	no	Human
+LCE3E	4.39	3.30E-07	GSE75890	L_N	Up	yes	yes	no	no	Human
+LCE5A	-3.50772	2.76E-68	GSE121212	L_N	Down	yes	yes	no	yes	Human
+LCE5A	-2.66	0.0001	GSE75890	L_N	Down	yes	yes	no	yes	Human
+LCN2	2.490653	2.31E-16	GSE121212	L_N	Up	yes	yes	yes	yes	Human
+LCN2	2.9	0.00045	GSE75890	L_N	Up	yes	yes	yes	yes	Human
+LCP1	2.294125	0.000133	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LCP1	2.254433	0.000365	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LCP1	2.001792	0.001611	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LCP2	2.248326	0.000782	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LCP2	2.174862	0.006077	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LENG8	2.002321	0.006077	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LEPR	2.944398	0.022486	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LGALS16	-2.11529	3.46E-08	18_L	L_N	Down	yes	yes	no	no	Human
+LGALS4	2.192672	0.037809	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LGALS4	2.350318	0.03332	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LGALS8	2.148994	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LGALS9B	3.834596	2.23E-15	GSE121212	L_N	Up	yes	yes	no	no	Human
+LGALS9B	2.07	0.0064	GSE140227	L_N	Up	yes	yes	no	no	Human
+LGALS9C	2.150225	2.95E-16	18_L	L_N	Up	yes	yes	no	no	Human
+LGALS9C	4.979398	9.02E-14	GSE121212	L_N	Up	yes	yes	no	no	Human
+LGALS9C	2.19	0.0068	GSE140227	L_N	Up	yes	yes	no	no	Human
+LGI1	2.480615	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LGI1	3.168798	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LGR5	-2.02	0.0037	GSE140227	L_N	Down	yes	yes	no	no	Human
+LHFPL1	2.052496	0.009605	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+LHX2	2.01271	0.00135	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LHX2	2.05712	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LILRB2	5.232676	0.000649	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LILRB2	5.454452	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LILRB3	2.537211	0.004425	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LILRB3	2.934781	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LIN7B	2.002071	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LINC00473	3.52675	1.81E-13	GSE121212	L_N	Up	yes	yes	no	no	Human
+LINC00589	2.120148	0.002257	GSE121212	L_N	Up	yes	yes	no	no	Human
+LINC01224	-2.00419	1.21E-11	GSE121212	L_N	Down	yes	yes	no	no	Human
+LINC01527	2.021136	8.10E-11	GSE121212	L_N	Up	yes	yes	no	no	Human
+LINC01605	2.370883	2.03E-49	18_L	L_N	Up	yes	yes	no	no	Human
+LINC01605	3.79282	3.20E-50	GSE121212	L_N	Up	yes	yes	no	no	Human
+LINGO2	-2.06721	2.72E-06	GSE121212	L_N	Down	yes	yes	no	no	Human
+LIX1	3.343906	0.025696	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LIX1	2.556076	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LMO3	2.057946	0.009605	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LMOD3	2.18767	0.006077	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LMOD3	2.33365	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LMOD3	2.236104	0.009605	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+LPCAT1	2.362327	0.002279	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LPL	-2.44	0.0048	GSE16161	L_N	Down	yes	yes	no	no	Human
+LRG1	2.297522	3.12E-15	GSE121212	L_N	Up	yes	yes	no	no	Human
+LRG1	7.157471	0.00135	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LRG1	4.824422	0.002366	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LRIT3	2.699703	0.046399	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LRRN1	2.187957	0.000443	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LRRN1	3.109733	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LRRN1	3.484423	0.002366	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LTA	2.314165	1.59E-08	GSE121212	L_N	Up	yes	yes	no	yes	Human
+LTBR	2.096098	0.027708	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LTF	2.138566	2.64E-15	18_L	L_N	Up	yes	yes	yes	yes	Human
+LTF	5.599146	7.49E-30	GSE121212	L_N	Up	yes	yes	yes	yes	Human
+LTF	3.64	7.60E-05	GSE16161	L_N	Up	yes	yes	yes	yes	Human
+LTF	2.93	0.0037	GSE32924	L_N	Up	yes	yes	yes	yes	Human
+LTF	2.68	0.029	GSE75890	L_N	Up	yes	yes	yes	yes	Human
+LURAP1L	2.032646	2.60E-36	GSE121212	L_N	Up	yes	yes	no	no	Human
+LY86	2.14861	0.002279	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LY86	2.035116	0.00135	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LY9	2.310901	0.000443	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LY9	2.078005	0.001611	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LY9	2.163057	0.019223	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LY96	2.278436	0.000443	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LY96	2.255552	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LYG1	3.11901	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LYG1	2.113343	0.010747	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LYG2	3.443819	0.03332	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LYG2	3.768848	0.012876	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+LYG2	2.709955	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LYG2	2.993802	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+LYPD1	2.288493	2.71E-06	GSE121212	L_N	Up	yes	yes	no	no	Human
+LYVE1	-2.26	7.00E-05	GSE16161	L_N	Down	yes	yes	no	no	Human
+LYZ	2.088331	0.003191	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MAB21L1	-2.87464	6.48E-15	GSE121212	L_N	Down	yes	yes	no	no	Human
+MAB21L2	2.414219	0.010747	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MAB21L2	2.642004	0.008266	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+MAGEA9	2.430578	0.021098	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MAGEB1	2.899345	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MAN1A1	2.329586	0.000649	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MARK1	2.033762	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MAST4	2.107805	0.003762	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+MAT1A	2.747693	0.010747	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MATK	2.798138	3.70E-33	GSE121212	L_N	Up	yes	yes	no	no	Human
+MATK	2.631147	0.000246	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MATN4	2.315074	0.001611	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MATN4	2.250229	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MDFI	2.616913	3.80E-46	GSE121212	L_N	Up	yes	yes	no	no	Human
+MDGA2	2.185238	0.042802	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ME2	2.259963	0.042802	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MEF2A	2.558457	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MEF2A	2.615201	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MERTK	2.202638	0.042802	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+MFAP4	-2.24	0.00047	GSE16161	L_N	Down	yes	yes	no	no	Human
+MFAP4	2.036937	0.009605	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MFAP4	2.18464	0.009605	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MFAP4	2.0103	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MFAP5	-3.04	4.20E-05	GSE16161	L_N	Down	yes	yes	no	no	Human
+MGARP	-2.01312	0.000183	GSE121212	L_N	Down	yes	yes	no	no	Human
+MGAT4C	3.251373	0.028744	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MGAT4C	2.789646	0.022394	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+MIR31HG	4.509895	9.16E-13	GSE121212	L_N	Up	yes	yes	no	no	Human
+MLANA	2.912717	0.007096	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MLANA	2.665618	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MLN	2.313089	0.03332	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+MLPH	2.021411	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MLXIPL	2.273074	0.046399	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MMP1	4.629204	5.26E-31	18_L	L_N	Up	yes	yes	no	yes	Human
+MMP1	6.289972	6.11E-31	GSE121212	L_N	Up	yes	yes	no	yes	Human
+MMP1	2.42	0.025	GSE32924	L_N	Up	yes	yes	no	yes	Human
+MMP1	2.61	0.012	GSE75890	L_N	Up	yes	yes	no	yes	Human
+MMP1	2.15	0.079	GSE32924_LvsNL	L_vs_NL	Up	yes	yes	no	yes	Human
+MMP1	3.13	0.23	GSE59294	L_vs_NL	Up	yes	yes	no	yes	Human
+MMP1	4.340656	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+MMP1	2.819397	0.046399	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+MMP10	3.358358	2.58E-12	18_L	L_N	Up	yes	yes	no	no	Human
+MMP10	3.730292	2.50E-07	GSE121212	L_N	Up	yes	yes	no	no	Human
+MMP12	2.938362	6.47E-19	18_L	L_N	Up	yes	yes	no	yes	Human
+MMP12	5.630443	9.80E-25	GSE121212	L_N	Up	yes	yes	no	yes	Human
+MMP12	3.33	0.00048	GSE16161	L_N	Up	yes	yes	no	yes	Human
+MMP12	3.63	0.0013	GSE32924	L_N	Up	yes	yes	no	yes	Human
+MMP12	2.78	0.048	GSE5667	L_N	Up	yes	yes	no	yes	Human
+MMP12	4.09	0.0022	GSE75890	L_N	Up	yes	yes	no	yes	Human
+MMP12	2.34	0.49	Chronic_GSE36842	L_vs_NL	Up	yes	yes	no	yes	Human
+MMP12	2.17	0.027	GSE27887	L_vs_NL	Up	yes	yes	no	yes	Human
+MMP12	2.09	0.0044	GSE58558	L_vs_NL	Up	yes	yes	no	yes	Human
+MMP12	3.29	0.2	GSE59294	L_vs_NL	Up	yes	yes	no	yes	Human
+MMP13	2.205288	0.012876	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MMP3	3.077348	1.12E-35	18_L	L_N	Up	yes	yes	no	yes	Human
+MMP3	3.461585	1.86E-09	GSE121212	L_N	Up	yes	yes	no	yes	Human
+MMP3	2.803877	5.91E-32	18_NL_N	NL_N	Up	yes	yes	no	yes	Human
+MMP7	2.609453	0.003762	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MMP7	2.431018	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MMP9	2.015909	4.50E-16	GSE121212	L_N	Up	yes	yes	no	yes	Human
+MMP9	2.120155	0.019631	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+MMP9	2.108423	0.037809	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+MMP9	2.117112	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+MNDA	2.270643	0.004425	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MNDA	2.078166	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MORN3	2.307933	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MOV10	2.196641	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MRAS	2.10348	0.03332	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MSMB	-2.31217	2.19E-18	18_L	L_N	Down	yes	yes	no	no	Human
+MSMB	-3.11	5.80E-06	GSE16161	L_N	Down	yes	yes	no	no	Human
+MSMB	-3.36	3.10E-07	GSE32924	L_N	Down	yes	yes	no	no	Human
+MSR1	3.250549	3.66E-05	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MSRA	3.048505	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MSRA	2.66838	0.009605	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+MSRA	3.797434	0.00075	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+MST1R	2.069328	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MT4	-2.80125	1.42E-06	GSE121212	L_N	Down	yes	yes	no	no	Human
+MT4	2.799434	0.019631	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MT4	2.426453	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MTA3	2.208278	0.039243	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MTA3	2.473156	0.008266	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+MX1	2.12545	2.25E-41	18_L	L_N	Up	yes	yes	no	no	Human
+MX1	2.155752	4.59E-13	GSE121212	L_N	Up	yes	yes	no	no	Human
+MX1	2.25982	0.004425	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MX2	2.173565	0.000365	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MXRA8	2.24693	0.006077	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MXRA8	2.039554	0.010747	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MYCN	2.147162	0.003762	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MYH2	2.037536	0.046399	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MYH8	2.732943	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MYO1F	2.369664	0.000782	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MYOC	2.357774	0.000941	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MYOC	3.327196	0.001919	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MYOC	2.465194	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MYOC	3.624306	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+MYOCD	2.339549	0.025696	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MYOCD	2.018837	0.009605	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+MYOM1	2.026318	0.002279	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MYOT	2.908173	0.000649	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MYOT	2.264664	0.022486	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+MYPN	2.287417	0.005192	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+MYPN	2.295835	0.001611	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+NANOS2	2.031635	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+NCALD	2.00397	0.042802	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+NCAPG	2.46	9.00E-06	GSE16161	L_N	Up	yes	yes	no	no	Human
+NCF1	2.703219	0.029295	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+NCF4	2.321741	0.012876	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+NCKAP1L	2.136462	0.005192	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+NCKAP1L	2.037614	0.019631	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+NDC80	2.26	2.00E-05	GSE16161	L_N	Up	yes	yes	no	no	Human
+NEFL	2.315235	0.039243	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+NELL2	3.589575	3.41E-30	GSE121212	L_N	Up	yes	yes	no	no	Human
+NETO1	2.823891	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+NETO1	2.216933	0.042802	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+NEXN	2.017692	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+NEXN	2.984946	0.017097	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+NFAM1	2.60414	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+NFAM1	2.93316	0.005192	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+NFE2	2.74601	0.007096	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+NFE2	2.290707	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+NLN	2.416966	0.027708	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+NLRC5	3.156566	0.000443	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+NLRC5	2.159722	0.046399	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+NLRP1	2.675998	0.014855	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+NLRP3	2.235433	0.03332	GSE6012_L	L_N	Up	yes	yes	yes	yes	Human
+NLRP9	2.044893	0.012876	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+NMB	2.329744	0.03332	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+NOG	-2.19742	0.000107	GSE121212	L_N	Down	yes	yes	no	no	Human
+NOL4	-2.28117	6.02E-05	GSE121212	L_N	Down	yes	yes	no	no	Human
+NOS1	2.056276	0.037809	GSE6012_NL	NL_N	Up	yes	yes	no	yes	Human
+NOTUM	2.227513	0.019631	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+NOTUM	2.166685	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+NPIPB6	-3.21614	1.86E-14	GSE121212	L_N	Down	yes	yes	no	no	Human
+NPIPB7	-3.31981	4.09E-10	GSE121212	L_N	Down	yes	yes	no	no	Human
+NPR3	2.264405	0.019631	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+NPR3	3.280277	0.01961	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+NPR3	2.436784	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+NPR3	3.446475	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+NQO1	2.062107	0.019631	GSE6012_L	L_N	Up	yes	yes	yes	yes	Human
+NR4A1	2.618099	3.22E-30	18_L	L_N	Up	yes	yes	no	no	Human
+NR4A1	2.451433	8.38E-13	GSE121212	L_N	Up	yes	yes	no	no	Human
+NR4A1	2.057788	6.83E-20	18_NL_N	NL_N	Up	yes	yes	no	no	Human
+NR4A2	2.34413	3.56E-28	18_L	L_N	Up	yes	yes	no	no	Human
+NR4A3	3.949411	2.31E-52	18_L	L_N	Up	yes	yes	no	no	Human
+NR4A3	2.754107	3.93E-35	GSE121212	L_N	Up	yes	yes	no	no	Human
+NR4A3	2.178434	4.81E-21	18_NL_N	NL_N	Up	yes	yes	no	no	Human
+NRG1	2.492605	0.001611	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+NRXN1	2.229863	0.029268	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+NT5C1B	2.159962	0.00642	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+NTRK1	2.194463	8.08E-19	18_L	L_N	Up	yes	yes	no	no	Human
+NTRK1	6.252731	1.13E-23	GSE121212	L_N	Up	yes	yes	no	no	Human
+NTRK3	2.390359	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+NTRK3	2.347954	0.029295	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+NUP210	3.699364	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+NXF3	2.02263	0.029295	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+NXNL1	2.104822	0.048341	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+NXNL2	-2.65014	9.48E-07	GSE121212	L_N	Down	yes	yes	no	no	Human
+NXPH1	2.348128	0.00135	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+NXPH1	2.084352	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+OAS1	2.94249	4.56E-05	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+OAS1	2.878406	5.68E-05	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+OAS1	2.28708	0.004425	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+OAS1	2.231008	0.019223	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+OAS1	2.181939	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+OAS1	2.154552	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+OAS2	2.445478	2.84E-48	18_L	L_N	Up	yes	yes	no	no	Human
+OAS2	2.519022	2.20E-11	GSE121212	L_N	Up	yes	yes	no	no	Human
+OAS2	2.017842	0.0003	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+OASL	2.988768	2.15E-52	18_L	L_N	Up	yes	yes	no	no	Human
+OASL	3.413004	3.26E-19	GSE121212	L_N	Up	yes	yes	no	no	Human
+OASL	2.384896	0.0027	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+OGDHL	2.08659	3.33E-05	GSE121212	L_N	Up	yes	yes	no	no	Human
+OGN	-2.13	0.00012	GSE16161	L_N	Down	yes	yes	no	no	Human
+OGN	-2.16	1.40E-05	GSE32924	L_N	Down	yes	yes	no	no	Human
+OLFM4	2.508385	4.00E-08	18_L	L_N	Up	yes	yes	no	no	Human
+OLFM4	3.237849	1.25E-08	GSE121212	L_N	Up	yes	yes	no	no	Human
+OLFML3	-2.35	0.00023	GSE16161	L_N	Down	yes	yes	no	no	Human
+OLR1	2.091887	0.000477	GSE121212	L_N	Up	yes	yes	no	no	Human
+OLR1	2.209151	0.037809	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+OMD	-2.35	3.40E-06	GSE16161	L_N	Down	yes	yes	no	no	Human
+OSM	2.43992	5.45E-15	18_L	L_N	Up	yes	yes	no	yes	Human
+OSM	3.238672	2.77E-13	GSE121212	L_N	Up	yes	yes	no	yes	Human
+OSMR	2.012828	0.000246	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+OSR2	-2.99	4.00E-05	GSE16161	L_N	Down	yes	yes	no	no	Human
+OTOR	2.397661	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+P2RY6	2.118302	1.77E-12	GSE121212	L_N	Up	yes	yes	no	no	Human
+PACSIN1	2.325568	0.017097	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+PADI3	3.484129	0.014855	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PADI3	2.926704	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PBLD	2.595576	0.025696	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PBLD	2.470925	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PCOLCE2	-2.74	8.30E-05	GSE16161	L_N	Down	yes	yes	no	no	Human
+PCSK1	2.29	0.21	GSE59294	L_vs_NL	Up	yes	yes	no	no	Human
+PCSK7	2.165532	0.029295	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+PDCD1	2.124709	6.93E-10	GSE121212	L_N	Up	yes	yes	no	yes	Human
+PDGFRL	-3.16	4.70E-06	GSE16161	L_N	Down	yes	yes	no	no	Human
+PDX1	2.04606	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PDYN	-2.32292	0.000324	GSE121212	L_N	Down	yes	yes	no	no	Human
+PER3	2.356026	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PGF	2.26626	3.08E-31	GSE121212	L_N	Up	yes	yes	no	no	Human
+PGLYRP2	2.003638	5.79E-10	GSE121212	L_N	Up	yes	yes	no	no	Human
+PHEX	2.535026	0.025696	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PHEX	2.225909	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PHYH	2.399688	0.001611	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+PHYHIP	-3.01228	6.86E-70	GSE121212	L_N	Down	yes	yes	no	no	Human
+PHYHIP	2.058093	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PI16	2.440274	0.025696	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PI3	3.533275	1.89E-50	18_L	L_N	Up	yes	yes	no	yes	Human
+PI3	4.598326	2.52E-27	GSE121212	L_N	Up	yes	yes	no	yes	Human
+PI3	2.69	0.0475	GSE140227	L_N	Up	yes	yes	no	yes	Human
+PI3	3.27	0.0032	GSE16161	L_N	Up	yes	yes	no	yes	Human
+PI3	2.25	0.1	GSE5667	L_N	Up	yes	yes	no	yes	Human
+PI3	3.94	0.00087	GSE75890	L_N	Up	yes	yes	no	yes	Human
+PI3	2.31	0.33	Chronic_GSE36842	L_vs_NL	Up	yes	yes	no	yes	Human
+PI3	2.5	0.15	GSE59294	L_vs_NL	Up	yes	yes	no	yes	Human
+PIK3CD	2.832018	0.03332	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+PIK3R6	2.025072	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PILRA	4.205721	0.000108	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PIN4	2.208569	0.03332	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+PITPNC1	2.008029	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PITX1	2.473067	4.51E-22	GSE121212	L_N	Up	yes	yes	no	no	Human
+PLA2G2A	2.597968	4.41E-27	18_L	L_N	Up	yes	yes	no	yes	Human
+PLA2G2A	2.192095	1.38E-07	GSE121212	L_N	Up	yes	yes	no	yes	Human
+PLA2G2E	2.029175	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PLA2G2F	2.12	8.80E-06	GSE75890	L_N	Up	yes	yes	no	no	Human
+PLA2G4D	2.378529	0.029295	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+PLA2G4E	2.033479	0.002279	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PLA2G4F	2.608602	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PLA2G6	2.457361	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PLAC1	-2.36082	2.92E-09	GSE121212	L_N	Down	yes	yes	no	no	Human
+PLAGL2	2.107675	0.037809	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PLAGL2	2.292348	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PLAT	2.677946	1.46E-19	GSE121212	L_N	Up	yes	yes	yes	no	Human
+PLAUR	2.026363	0.012876	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+PLAUR	2.349595	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+PLCB4	2.789122	0.009605	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PLCB4	2.452126	0.002366	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PLEK	3.55735	0.000941	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PLEK	2.466565	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PLIN1	-2.62	0.004	GSE16161	L_N	Down	yes	yes	no	no	Human
+PLN	2.614689	0.003762	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PLN	2.90839	0.000941	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PLN	2.085002	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PLN	2.307984	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PLP1	2.897901	0.029295	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PLP1	2.935688	0.019223	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PLPPR5	-2.49083	0.000106	GSE121212	L_N	Down	yes	yes	no	no	Human
+PM20D1	-2.05	0.095	GSE32924_LvsNL	L_vs_NL	Down	yes	yes	no	no	Human
+PMM2	2.603938	0.03332	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+PMM2	2.066496	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+PMP2	4.068821	0.007096	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PMP2	2.850124	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PNMT	2.370245	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+POLD3	2.079938	0.042802	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+POLR2A	2.158328	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PPM1K	2.241938	0.014855	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PPP1R1A	2.23445	0.042802	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PPP1R1B	2.101099	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PPP1R1B	2.700738	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PPP1R3C	2.818687	8.15E-35	GSE121212	L_N	Up	yes	yes	no	no	Human
+PRKDC	2.214993	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PRKDC	2.47318	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PRMT8	2.192896	0.006077	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PRND	2.024641	0.004425	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PROKR2	2.450457	0.039243	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PRPH2	2.234945	0.004425	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+PRR9	2.51	0.0052	GSE75890	L_N	Up	yes	yes	no	no	Human
+PRSS22	3.373635	2.50E-49	GSE121212	L_N	Up	yes	yes	no	no	Human
+PRSS22	2.14	0.0011	GSE75890	L_N	Up	yes	yes	no	no	Human
+PRSS27	2.001577	6.53E-41	18_L	L_N	Up	yes	yes	no	no	Human
+PRSS27	2.680694	7.30E-45	GSE121212	L_N	Up	yes	yes	no	no	Human
+PRSS27	2.94	3.70E-06	GSE75890	L_N	Up	yes	yes	no	no	Human
+PRSS53	2.871708	7.89E-49	18_L	L_N	Up	yes	yes	no	no	Human
+PSAPL1	-2.17	4.80E-05	GSE32924	L_N	Down	yes	yes	no	no	Human
+PSG4	-2.07	0.00031	GSE16161	L_N	Down	yes	yes	no	no	Human
+PSG5	-2.66153	1.31E-13	GSE121212	L_N	Down	yes	yes	no	no	Human
+PSMB5	2.229246	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+PSMB8	2.0462	0.000782	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+PSORS1C2	-2.96	3.60E-07	GSE16161	L_N	Down	yes	yes	no	yes	Human
+PTAR1	2.048478	0.029295	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+PTGDS	2.133133	0.000201	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+PTGS2	2.375328	3.64E-30	18_L	L_N	Up	yes	yes	yes	yes	Human
+PTN	2.062449	0.003191	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PTP4A3	2.233066	1.79E-26	GSE121212	L_N	Up	yes	yes	no	no	Human
+PTPN6	2.109045	0.037809	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+PTPRC	2.147878	0.001128	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PTPRC	2.055732	8.74E-05	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+PXDNL	2.666537	0.010747	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+QRICH2	2.141547	0.025696	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+RAB3B	-3.29191	8.55E-64	GSE121212	L_N	Down	yes	yes	no	no	Human
+RAB3B	-2.01	0.00028	GSE75890	L_N	Down	yes	yes	no	no	Human
+RAC2	3.172009	0.000164	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+RANBP3L	-2.28	0.0032	GSE140227	L_N	Down	yes	yes	no	no	Human
+RB1	2.152293	0.007096	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+RBP4	-2.37	0.0074	GSE16161	L_N	Down	yes	yes	no	no	Human
+REN	2.052247	0.017097	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+RENBP	2.147616	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+REV1	3.508039	0.012876	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+RFFL	2.601713	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+RGS1	2.757916	7.10E-34	18_L	L_N	Up	yes	yes	no	no	Human
+RGS1	2.304032	2.83E-20	GSE121212	L_N	Up	yes	yes	no	no	Human
+RGS12	2.247481	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+RGS14	2.199296	0.019223	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+RHCG	2.005375	3.85E-18	18_L	L_N	Up	yes	yes	no	no	Human
+RHCG	3.282843	2.08E-15	GSE121212	L_N	Up	yes	yes	no	no	Human
+RNASE13	2.360368	7.83E-09	GSE121212	L_N	Up	yes	yes	no	no	Human
+RND1	3.094658	8.66E-16	GSE121212	L_N	Up	yes	yes	no	no	Human
+RND1	2.682872	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+RND1	2.660741	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+RNF180	2.279402	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ROR2	2.854372	0.010747	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+RPS4Y1	-3	0.088	GSE75890	L_N	Down	yes	yes	no	no	Human
+RRM2	2.49	5.90E-06	GSE16161	L_N	Up	yes	yes	no	no	Human
+RSAD2	2.196604	1.45E-27	18_L	L_N	Up	yes	yes	no	no	Human
+RSPO3	2.080797	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+RSPO3	2.334694	0.001128	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+RTF1	2.107994	0.03332	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+RTF1	2.179306	0.048341	GSE6012_NL	NL_N	Up	yes	yes	no	yes	Human
+RTKN2	2.086385	0.003762	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+RTP4	2.590467	2.56E-31	GSE121212	L_N	Up	yes	yes	no	no	Human
+RTP4	2.122646	0.029295	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+RUFY4	4.003606	1.43E-24	GSE121212	L_N	Up	yes	yes	no	no	Human
+S100A12	2.973173	2.66E-28	18_L	L_N	Up	yes	yes	no	yes	Human
+S100A12	4.396019	5.06E-14	GSE121212	L_N	Up	yes	yes	no	yes	Human
+S100A12	2.85	0.14	GSE59294	L_vs_NL	Up	yes	yes	no	yes	Human
+S100A2	2.429524	2.89E-32	GSE121212	L_N	Up	yes	yes	no	no	Human
+S100A3	3.480868	0.022486	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+S100A3	2.911059	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+S100A7	4.188557	7.06E-75	18_L	L_N	Up	yes	yes	no	yes	Human
+S100A7	5.634482	6.42E-36	GSE121212	L_N	Up	yes	yes	no	yes	Human
+S100A7	3.2	0.0159	GSE140227	L_N	Up	yes	yes	no	yes	Human
+S100A7	3.68	4.60E-06	GSE75890	L_N	Up	yes	yes	no	yes	Human
+S100A7A	3.770772	2.29E-79	18_L	L_N	Up	yes	yes	no	no	Human
+S100A7A	6.495736	1.32E-27	GSE121212	L_N	Up	yes	yes	no	no	Human
+S100A7A	3.91	0.0227	GSE140227	L_N	Up	yes	yes	no	no	Human
+S100A7A	2.69	0.018	GSE32924	L_N	Up	yes	yes	no	no	Human
+S100A7A	3.74	0.0081	GSE75890	L_N	Up	yes	yes	no	no	Human
+S100A7A	2.69	0.00074	GSE58558	L_vs_NL	Up	yes	yes	no	no	Human
+S100A7A	4.2	0.15	GSE59294	L_vs_NL	Up	yes	yes	no	no	Human
+S100A8	3.756796	3.10E-46	18_L	L_N	Up	yes	yes	no	yes	Human
+S100A8	5.752967	2.00E-35	GSE121212	L_N	Up	yes	yes	no	yes	Human
+S100A8	3.29	2.00E-05	GSE16161	L_N	Up	yes	yes	no	yes	Human
+S100A8	3.08	0.078	GSE5667	L_N	Up	yes	yes	no	yes	Human
+S100A8	4.712835	0.000649	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+S100A8	3.23	0.00015	GSE75890	L_N	Up	yes	yes	no	yes	Human
+S100A8	2.62	0.22	GSE5667_LvsNL	L_vs_NL	Up	yes	yes	no	yes	Human
+S100A8	3.309787	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+S100A9	4.284063	7.43E-67	18_L	L_N	Up	yes	yes	no	no	Human
+S100A9	5.710103	2.29E-34	GSE121212	L_N	Up	yes	yes	no	no	Human
+S100A9	4.91	4.70E-05	GSE16161	L_N	Up	yes	yes	no	no	Human
+S100A9	3.35	0.015	GSE32924	L_N	Up	yes	yes	no	no	Human
+S100A9	4.13	0.054	GSE5667	L_N	Up	yes	yes	no	no	Human
+S100A9	10.1555	0.000443	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+S100A9	4.25	3.70E-06	GSE75890	L_N	Up	yes	yes	no	no	Human
+S100A9	2.53	0.36	Chronic_GSE36842	L_vs_NL	Up	yes	yes	no	no	Human
+S100A9	3	0.18	GSE5667_LvsNL	L_vs_NL	Up	yes	yes	no	no	Human
+S100A9	2.22	0.00029	GSE58558	L_vs_NL	Up	yes	yes	no	no	Human
+S100A9	2.95	0.15	GSE59294	L_vs_NL	Up	yes	yes	no	no	Human
+S100A9	4.868624	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+S100P	2.401344	8.71E-17	GSE121212	L_N	Up	yes	yes	no	no	Human
+S100P	3.586616	0.000164	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+S100P	2.596076	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SAA1	4.283744	0.001611	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SAA1	3.651333	0.0027	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SAA1	3.30719	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SAA1	3.199866	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SAMSN1	2.304117	4.89E-25	GSE121212	L_N	Up	yes	yes	no	no	Human
+SAMSN1	2.850613	0.000443	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SAMSN1	2.09885	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SCAF1	2.321001	0.000941	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SCEL	-2.35	5.50E-05	GSE16161	L_N	Down	yes	yes	no	no	Human
+SCGB3A2	-3.07686	4.95E-22	GSE121212	L_N	Down	yes	yes	no	yes	Human
+SCN2A	2.098135	0.004166	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SCN2A	2.20048	0.025696	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SCN3A	2.135503	0.042631	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SCN3A	3.644425	0.008595	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SCO2	2.12	0.00074	GSE16161	L_N	Up	yes	yes	no	no	Human
+SCUBE1	-2.17149	7.81E-15	GSE121212	L_N	Down	yes	yes	no	no	Human
+SCUBE3	2.185615	0.001611	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SCUBE3	2.106052	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SCUBE3	2.135752	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SEC31B	2.824874	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SEC31B	2.545841	0.00135	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SELE	2.406392	2.84E-39	18_L	L_N	Up	yes	yes	no	yes	Human
+SELE	2.441561	9.54E-27	GSE121212	L_N	Up	yes	yes	no	yes	Human
+SELE	2.03	0.00074	GSE32924	L_N	Up	yes	yes	no	yes	Human
+SELE	2.03	0.2	GSE59294	L_vs_NL	Up	yes	yes	no	yes	Human
+SELE	3.362424	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+SELL	3.507264	0.001919	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+SELL	2.96655	0.0027	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+SELL	2.896755	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+SELL	2.066301	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+SELP	3.328929	0.037809	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+SELP	3.586837	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+SERINC5	2.389769	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SERPINA1	2.43	0.007	GSE140227	L_N	Up	yes	yes	no	yes	Human
+SERPINA1	2.43	0.007	GSE140227	L_N	Up	yes	yes	no	yes	Human
+SERPINA1	2.43	0.007	GSE140227	L_N	Up	yes	yes	no	yes	Human
+SERPINA12	-3.01	1.60E-05	GSE32924	L_N	Down	yes	yes	no	no	Human
+SERPINA3	2.282635	0.029295	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SERPINA3	2.884558	0.015906	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SERPINA3	2.017752	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SERPINA7	2.835542	0.001919	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SERPINB11	-2.05706	0.002093	GSE121212	L_N	Down	yes	yes	no	no	Human
+SERPINB11	3.35	0.011	GSE140227	L_N	Up	yes	yes	no	no	Human
+SERPINB3	2.360592	1.33E-32	18_L	L_N	Up	yes	yes	no	no	Human
+SERPINB3	4.113621	1.36E-49	GSE121212	L_N	Up	yes	yes	no	no	Human
+SERPINB3	2.51	0.017	GSE16161	L_N	Up	yes	yes	no	no	Human
+SERPINB3	2.06	0.078	GSE5667	L_N	Up	yes	yes	no	no	Human
+SERPINB3	2.94	2.40E-10	GSE75890	L_N	Up	yes	yes	no	no	Human
+SERPINB3	2.9	0.018	Acute_GSE36842	L_vs_NL	Up	yes	yes	no	no	Human
+SERPINB3	2.19	0.19	Chronic_GSE36842	L_vs_NL	Up	yes	yes	no	no	Human
+SERPINB3	2.44	7.30E-05	GSE58558	L_vs_NL	Up	yes	yes	no	no	Human
+SERPINB3	3.24	0.14	GSE59294	L_vs_NL	Up	yes	yes	no	no	Human
+SERPINB4	3.007274	4.14E-33	18_L	L_N	Up	yes	yes	no	yes	Human
+SERPINB4	7.179486	1.29E-43	GSE121212	L_N	Up	yes	yes	no	yes	Human
+SERPINB4	5.38	0.00017	GSE16161	L_N	Up	yes	yes	no	yes	Human
+SERPINB4	3.97	0.014	GSE32924	L_N	Up	yes	yes	no	yes	Human
+SERPINB4	4.56	0.048	GSE5667	L_N	Up	yes	yes	no	yes	Human
+SERPINB4	7.553822	0.000246	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+SERPINB4	4.95	5.80E-05	GSE75890	L_N	Up	yes	yes	no	yes	Human
+SERPINB4	2.61	0.1	GSE27887	L_vs_NL	Up	yes	yes	no	yes	Human
+SERPINB4	2.05	0.17	GSE32924_LvsNL	L_vs_NL	Up	yes	yes	no	yes	Human
+SERPINB4	3.05	0.18	GSE5667_LvsNL	L_vs_NL	Up	yes	yes	no	yes	Human
+SERPINB4	2.75	0.00015	GSE58558	L_vs_NL	Up	yes	yes	no	yes	Human
+SERPINB4	4.36	0.15	GSE59294	L_vs_NL	Up	yes	yes	no	yes	Human
+SERPINB4	3.355346	0.010747	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+SERPINB4	2.25128	0.022486	GSE6012_NL	NL_N	Up	yes	yes	no	yes	Human
+SERPINB7	-3.02	1.40E-05	GSE16161	L_N	Down	yes	yes	no	yes	Human
+SERPINB7	-2.35	0.0013	GSE32924	L_N	Down	yes	yes	no	yes	Human
+SERPINE1	2.323094	1.09E-37	18_L	L_N	Up	yes	yes	yes	yes	Human
+SERPINE1	3.225314	3.29E-27	GSE121212	L_N	Up	yes	yes	yes	yes	Human
+SERPINE1	4.262659	0.000649	GSE6012_L	L_N	Up	yes	yes	yes	yes	Human
+SERPINE1	3.738047	0.003762	GSE6012_L	L_N	Up	yes	yes	yes	yes	Human
+SERPINE1	3.600727	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	yes	yes	Human
+SERPINE1	2.820535	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	yes	yes	Human
+SESN3	2.154394	0.029295	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SEZ6	2.006911	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SF3B3	2.573571	0.010747	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SGCA	2.033901	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SGK2	2.03131	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SGSM2	2.564505	0.046399	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SH2D2A	2.305329	5.08E-21	GSE121212	L_N	Up	yes	yes	no	no	Human
+SH2D5	3.227819	6.17E-25	18_L	L_N	Up	yes	yes	no	no	Human
+SH2D5	4.509482	2.53E-20	GSE121212	L_N	Up	yes	yes	no	no	Human
+SH3BP1	2.469834	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SH3GL1	2.708087	0.019631	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SIRPB2	2.371594	0.004425	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SIRPB2	2.94973	0.012876	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SIRPG	2.056804	5.99E-08	GSE121212	L_N	Up	yes	yes	no	no	Human
+SKAP1	2.554059	0.025696	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SKAP1	2.360243	0.010747	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SKAP2	2.347704	0.037809	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SKAP2	3.927443	0.001106	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SLAIN1	2.648137	0.022486	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLAMF1	2.487752	3.88E-21	GSE121212	L_N	Up	yes	yes	no	yes	Human
+SLAMF9	2.778623	2.73E-09	GSE121212	L_N	Up	yes	yes	no	no	Human
+SLC10A2	2.774607	0.019631	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SLC11A1	3.066381	0.000201	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC11A1	2.077935	8.74E-05	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC11A1	2.001783	0.000365	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC11A1	2.366694	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SLC12A8	2.56097	0.042802	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC12A8	2.338839	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SLC13A1	2.003148	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC16A14	2.940474	0.0027	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC16A14	2.02573	0.001919	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC16A14	2.36896	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SLC16A4	2.080956	0.027708	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SLC17A8	2.072222	0.000365	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC22A16	3.04467	8.74E-05	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC22A16	2.406039	0.011134	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SLC22A5	2.765317	0.014855	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+SLC24A5	2.335104	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SLC25A23	2.391012	0.025696	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SLC25A25	2.386143	8.80E-48	18_L	L_N	Up	yes	yes	no	no	Human
+SLC25A43	2.038929	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SLC26A4	6.960997	0.003088	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC26A4	4.859256	0.019223	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SLC26A6	2.647482	0.006077	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC26A6	2.085234	0.022486	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SLC27A1	2.046737	0.010747	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SLC27A5	2.004505	0.042802	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC27A6	2.005748	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC2A1	2.034486	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	yes	no	Human
+SLC30A2	2.059356	0.02776	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SLC35B3	2.634969	0.046399	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SLC35D3	-2.37014	5.38E-05	GSE121212	L_N	Down	yes	yes	no	no	Human
+SLC36A2	2.017954	0.000537	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC38A5	2.012095	0.03332	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SLC39A12	2.378003	0.021098	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SLC39A12	3.102488	0.012028	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SLC39A3	2.14	0.0003	GSE140227	L_N	Up	yes	yes	no	no	Human
+SLC39A3	2.14	0.0003	GSE140227	L_N	Up	yes	yes	no	no	Human
+SLC39A3	2.14	0.0003	GSE140227	L_N	Up	yes	yes	no	no	Human
+SLC46A2	-2.24	1.40E-05	GSE32924	L_N	Down	yes	yes	no	no	Human
+SLC4A5	2.059182	0.014855	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SLC5A1	2.521823	0.029295	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC5A5	6.563283	5.89E-29	GSE121212	L_N	Up	yes	yes	no	no	Human
+SLC5A5	2.2	0.0114	GSE140227	L_N	Up	yes	yes	no	no	Human
+SLC5A8	2.012362	0.03332	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLC6A1	2.789807	0.006077	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLCO1A2	-3.21394	4.62E-13	GSE121212	L_N	Down	yes	yes	no	no	Human
+SLCO1C1	2.329627	0.022486	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLCO5A1	2.295341	4.43E-15	GSE121212	L_N	Up	yes	yes	no	no	Human
+SLFNL1	2.251878	0.0027	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SLN	-2.9873	1.48E-11	GSE121212	L_N	Down	yes	yes	no	no	Human
+SLURP1	-2.24	0.0033	GSE16161	L_N	Down	yes	yes	no	yes	Human
+SLURP1	-2.16	0.014	GSE32924	L_N	Down	yes	yes	no	yes	Human
+SMAD3	2.024914	0.03332	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+SMAD6	2.312011	0.0027	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SMYD1	2.533443	0.019631	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SNAP25	2.084177	0.019631	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SNCA	2.406209	0.002279	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SNCA	2.575512	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SNTB1	-2.05853	1.88E-44	GSE121212	L_N	Down	yes	yes	no	no	Human
+SOBP	2.250113	0.039243	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SOCS3	2.645311	2.48E-47	18_L	L_N	Up	yes	yes	no	yes	Human
+SOCS3	3.270563	8.18E-51	GSE121212	L_N	Up	yes	yes	no	yes	Human
+SORCS1	2.542903	0.008266	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SOST	4.333661	1.81E-10	GSE121212	L_N	Up	yes	yes	no	no	Human
+SOX2	2.356765	4.98E-22	GSE121212	L_N	Up	yes	yes	no	no	Human
+SOX2	2.01	0.0373	GSE140227	L_N	Up	yes	yes	no	no	Human
+SOX2	2.01	0.0373	GSE140227	L_N	Up	yes	yes	no	no	Human
+SOX2	2.01	0.0373	GSE140227	L_N	Up	yes	yes	no	no	Human
+SOX2	2.01	0.0373	GSE140227	L_N	Up	yes	yes	no	no	Human
+SOX5	2.054607	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+SP100	2.209544	0.022486	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SP8	-2.56897	2.38E-23	18_L	L_N	Down	yes	yes	no	no	Human
+SPATA22	2.308571	0.024852	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SPI1	2.089325	0.003762	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SPIB	2.308865	3.60E-10	GSE121212	L_N	Up	yes	yes	no	no	Human
+SPINK1	-2.08875	1.17E-15	18_L	L_N	Down	yes	yes	no	no	Human
+SPINK1	-2.97843	1.58E-20	GSE121212	L_N	Down	yes	yes	no	no	Human
+SPINK4	2.059736	0.019631	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SPOCK2	2.006531	2.69E-25	GSE121212	L_N	Up	yes	yes	no	no	Human
+SPP1	2.47585	0.000167	18_L	L_N	Up	yes	yes	yes	no	Human
+SPP2	2.137616	0.00135	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SPRR1A	3.284526	1.84E-27	GSE121212	L_N	Up	yes	yes	no	yes	Human
+SPRR1A	2.6	0.0194	GSE140227	L_N	Up	yes	yes	no	yes	Human
+SPRR1A	2.92	4.20E-05	GSE75890	L_N	Up	yes	yes	no	yes	Human
+SPRR1B	2.205312	7.46E-36	18_L	L_N	Up	yes	yes	no	yes	Human
+SPRR1B	3.234255	1.07E-37	GSE121212	L_N	Up	yes	yes	no	yes	Human
+SPRR1B	2.32	0.0102	GSE140227	L_N	Up	yes	yes	no	yes	Human
+SPRR1B	2.63	1.10E-05	GSE75890	L_N	Up	yes	yes	no	yes	Human
+SPRR1B	2.04	0.018	Acute_GSE36842	L_vs_NL	Up	yes	yes	no	yes	Human
+SPRR2A	3.228903	7.49E-36	18_L	L_N	Up	yes	yes	no	yes	Human
+SPRR2A	6.108067	5.43E-27	GSE121212	L_N	Up	yes	yes	no	yes	Human
+SPRR2A	2.35	0.0202	GSE140227	L_N	Up	yes	yes	no	yes	Human
+SPRR2A	2.35	0.0202	GSE140227	L_N	Up	yes	yes	no	yes	Human
+SPRR2A	2.39	0.061	GSE5667	L_N	Up	yes	yes	no	yes	Human
+SPRR2A	2.69	0.04	Acute_GSE36842	L_vs_NL	Up	yes	yes	no	yes	Human
+SPRR2A	2.05	0.0041	GSE58558	L_vs_NL	Up	yes	yes	no	yes	Human
+SPRR2B	3.549381	5.67E-47	18_L	L_N	Up	yes	yes	no	yes	Human
+SPRR2B	5.94936	4.62E-33	GSE121212	L_N	Up	yes	yes	no	yes	Human
+SPRR2B	2.17	0.0241	GSE140227	L_N	Up	yes	yes	no	yes	Human
+SPRR2B	5.32	7.10E-05	GSE75890	L_N	Up	yes	yes	no	yes	Human
+SPRR2D	2.754703	2.54E-42	18_L	L_N	Up	yes	yes	no	yes	Human
+SPRR2D	4.236436	5.73E-43	GSE121212	L_N	Up	yes	yes	no	yes	Human
+SPRR2D	2.32	0.0159	GSE140227	L_N	Up	yes	yes	no	yes	Human
+SPRR2E	2.990546	3.54E-33	GSE121212	L_N	Up	yes	yes	no	yes	Human
+SPRR2E	2.34	0.00093	GSE75890	L_N	Up	yes	yes	no	yes	Human
+SPRR2F	2.944415	2.88E-38	18_L	L_N	Up	yes	yes	no	no	Human
+SPRR2F	5.920545	1.84E-23	GSE121212	L_N	Up	yes	yes	no	no	Human
+SPRR2F	2.16	0.0178	GSE140227	L_N	Up	yes	yes	no	no	Human
+SPRR2F	2.84	0.033	GSE75890	L_N	Up	yes	yes	no	no	Human
+SPRR2G	3.772331	1.28E-77	18_L	L_N	Up	yes	yes	no	no	Human
+SPRR2G	4.570166	9.57E-38	GSE121212	L_N	Up	yes	yes	no	no	Human
+SPRR2G	2.74	0.016	GSE5667	L_N	Up	yes	yes	no	no	Human
+SPRR2G	2.54	0.00087	GSE75890	L_N	Up	yes	yes	no	no	Human
+SPRR2G	2.351817	2.68E-34	18_NL_N	NL_N	Up	yes	yes	no	no	Human
+SPRR3	2.278908	1.32E-10	18_L	L_N	Up	yes	yes	no	yes	Human
+SPRR3	3.931818	2.15E-09	GSE121212	L_N	Up	yes	yes	no	yes	Human
+SPRR3	2.02	0.23	GSE59294	L_vs_NL	Up	yes	yes	no	yes	Human
+SRD5A2	-2.14489	0.000751	GSE121212	L_N	Down	yes	yes	no	no	Human
+SRGN	2.677694	0.001128	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SRGN	2.324638	0.0003	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SRGN	2.302449	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SRGN	2.11106	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SRRM1	2.204764	0.042802	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+SSTR2	2.17182	0.00135	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SSX5	3.06564	0.0027	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+ST6GALNAC1	2.547072	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+STEAP4	2.256685	0.000941	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+STEAP4	2.14588	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+STEAP4	2.041825	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+STK31	2.821455	0.006077	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+STK39	2.361809	0.042802	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+STRA8	-2.85821	7.11E-06	GSE121212	L_N	Down	yes	yes	no	no	Human
+SULT1B1	2.406719	0.039243	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+SULT1E1	2.424591	0.003191	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SYK	4.168633	4.56E-05	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+SYK	2.186631	0.000649	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+SYK	2.609797	0.006077	GSE6012_NL	NL_N	Up	yes	yes	no	yes	Human
+SYNE1	2.020606	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+SYNE1	2.579213	0.029295	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TAL1	2.030041	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+TAPBP	2.287609	0.022486	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TBC1D8B	2.026313	0.005998	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TBX1	2.542849	0.002279	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TBX1	2.645309	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+TBX20	4.304007	6.97E-08	GSE121212	L_N	Up	yes	yes	no	no	Human
+TCEA2	2.008721	0.001919	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TCHH	2.684852	0.025696	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+TCHH	2.11	0.14	GSE75890	L_N	Up	yes	yes	no	yes	Human
+TCHH	2.262483	0.027708	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+TCHH	3.264244	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	yes	Human
+TCHP	2.067774	0.019631	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TCN1	2.966321	1.06E-35	18_L	L_N	Up	yes	yes	no	no	Human
+TCN1	5.118271	1.89E-20	GSE121212	L_N	Up	yes	yes	no	no	Human
+TCN1	4.843914	0.029295	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TCN1	4.514368	0.042802	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TCN1	2.35	0.02	GSE75890	L_N	Up	yes	yes	no	no	Human
+TCN1	2.67	0.18	GSE59294	L_vs_NL	Up	yes	yes	no	no	Human
+TCN1	3.570463	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+TCOF1	2.044218	0.019631	GSE6012_NL	NL_N	Up	yes	yes	no	yes	Human
+TDO2	2.356015	0.039899	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+TEKT5	2.422362	0.012876	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+TEX101	3.138589	4.21E-25	GSE121212	L_N	Up	yes	yes	no	no	Human
+TEX11	3.841921	4.18E-13	GSE121212	L_N	Up	yes	yes	no	no	Human
+TEX15	3.412311	9.16E-12	GSE121212	L_N	Up	yes	yes	no	no	Human
+TFEC	2.406856	0.000537	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TGFBI	3.037487	0.000537	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+THRSP	-2.06	0.031	GSE140227	L_N	Down	yes	yes	no	no	Human
+THRSP	-2.13	0.038	GSE32924	L_N	Down	yes	yes	no	no	Human
+THRSP	-2.34	0.0078	GSE27887	L_vs_NL	Down	yes	yes	no	no	Human
+THRSP	-2.55	0.062	GSE32924_LvsNL	L_vs_NL	Down	yes	yes	no	no	Human
+TIFAB	2.176441	4.46E-16	GSE121212	L_N	Up	yes	yes	no	no	Human
+TIMP1	3.268624	8.74E-05	GSE6012_L	L_N	Up	yes	yes	yes	yes	Human
+TIMP1	2.940918	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	yes	yes	Human
+TMC1	2.31805	1.40E-08	GSE121212	L_N	Up	yes	yes	no	no	Human
+TMC3	2.060661	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+TMC5	2.23	0.00019	GSE75890	L_N	Up	yes	yes	no	no	Human
+TMEFF1	2.507669	0.001128	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TMEFF1	3.180973	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TMEM105	2.626038	4.40E-16	GSE121212	L_N	Up	yes	yes	no	no	Human
+TMEM132B	2.058642	0.037809	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TMEM132E	2.241499	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TMEM151A	2.637613	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+TMEM178	2.218081	0.003762	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TMEM182	2.274061	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+TMEM255A	-2.24	6.80E-05	GSE16161	L_N	Down	yes	yes	no	no	Human
+TMPRSS11D	2.629638	6.69E-17	GSE121212	L_N	Up	yes	yes	no	no	Human
+TMPRSS3	4.756259	0.003762	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TMPRSS3	2.937591	0.005772	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+TMPRSS4	3.874472	1.12E-46	GSE121212	L_N	Up	yes	yes	no	no	Human
+TMPRSS4	2.66	0.00059	GSE75890	L_N	Up	yes	yes	no	no	Human
+TMPRSS6	-2.13486	2.62E-21	GSE121212	L_N	Down	yes	yes	no	no	Human
+TNC	2.043482	9.31E-50	18_L	L_N	Up	yes	yes	no	no	Human
+TNC	2.720093	3.20E-42	GSE121212	L_N	Up	yes	yes	no	no	Human
+TNFAIP6	2.160555	0.037809	GSE6012_L	L_N	Up	yes	yes	yes	no	Human
+TNFAIP6	2.334245	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	yes	no	Human
+TNFRSF12A	2.413789	9.19E-25	GSE121212	L_N	Up	yes	yes	no	no	Human
+TNFRSF14	2.845773	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TNFRSF21	2.480782	2.39E-47	GSE121212	L_N	Up	yes	yes	no	no	Human
+TNFRSF4	2.307847	1.64E-11	GSE121212	L_N	Up	yes	yes	no	yes	Human
+TNFRSF4	3.068148	0.017097	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+TNFRSF9	2.923096	1.33E-20	GSE121212	L_N	Up	yes	yes	no	no	Human
+TNFSF15	2.200094	0.019223	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+TNIP3	3.225181	1.99E-12	GSE121212	L_N	Up	yes	yes	no	no	Human
+TNIP3	2.324413	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TNIP3	2.155919	0.013104	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+TNN	2.224048	0.008775	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+TNNC1	-2.17714	6.48E-35	18_L	L_N	Down	yes	yes	no	no	Human
+TNNC1	-3.45992	1.62E-63	GSE121212	L_N	Down	yes	yes	no	no	Human
+TOP2A	2	2.70E-05	GSE16161	L_N	Up	yes	yes	no	no	Human
+TREM1	2.087208	1.35E-11	18_L	L_N	Up	yes	yes	no	no	Human
+TREM1	4.200947	0.000246	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TREM1	3.148588	0.007132	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+TREML2	3.480685	2.84E-21	GSE121212	L_N	Up	yes	yes	no	no	Human
+TREX2	3.437743	0.005192	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TREX2	3.362167	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+TRIM10	3.566071	3.23E-36	GSE121212	L_N	Up	yes	yes	no	no	Human
+TRIM15	3.647863	1.44E-27	GSE121212	L_N	Up	yes	yes	no	no	Human
+TRIM22	2.002258	0.008266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TRIM40	2.891296	5.61E-07	GSE121212	L_N	Up	yes	yes	no	no	Human
+TRIM42	2.289006	0.027708	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+TRIM65	2.158492	0.007096	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+TRPM1	2.208339	0.005192	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TRPM1	2.371136	0.022486	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TRPM3	2.616915	0.048341	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TSNARE1	2.26079	0.042802	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TSNAX	2.335192	0.017097	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+TSSK3	2.001388	0.012876	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TTC24	2.286668	0.005654	GSE121212	L_N	Up	yes	yes	no	no	Human
+TTN	2.496891	0.012876	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+TULP3	2.160119	0.001919	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+TUT1	2.108763	0.011134	GSE6012_NL	NL_N	Up	yes	yes	no	yes	Human
+TXNDC8	2.193751	7.49E-05	GSE121212	L_N	Up	yes	yes	no	no	Human
+TYMP	2.792148	2.87E-44	GSE121212	L_N	Up	yes	yes	no	no	Human
+TYMP	2.56	0.00011	GSE16161	L_N	Up	yes	yes	no	no	Human
+TYR	2.19667	0.046399	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+TYROBP	2.392484	0.000133	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+UBA7	2.69864	0.003191	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+UBE2C	2.16	1.40E-05	GSE16161	L_N	Up	yes	yes	no	no	Human
+UGT1A7	3.504684	8.77E-47	18_L	L_N	Up	yes	yes	no	no	Human
+UGT1A7	2.563735	6.83E-39	GSE121212	L_N	Up	yes	yes	no	no	Human
+UGT1A7	5.39	8.80E-06	GSE75890	L_N	Up	yes	yes	no	no	Human
+UGT3A1	-2.27889	3.68E-05	GSE121212	L_N	Down	yes	yes	no	no	Human
+UGT3A2	-2.22475	5.25E-15	18_L	L_N	Down	yes	yes	no	no	Human
+UGT3A2	-3.7092	3.94E-27	GSE121212	L_N	Down	yes	yes	no	no	Human
+UGT3A2	-2.89	0.0133	GSE140227	L_N	Down	yes	yes	no	no	Human
+UGT3A2	-3.36	0.00021	GSE75890	L_N	Down	yes	yes	no	no	Human
+UIMC1	2.460244	0.04266	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+UIMC1	2.334888	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ULBP1	2.799018	4.62E-22	18_L	L_N	Up	yes	yes	no	no	Human
+ULBP2	2.353395	1.74E-26	18_L	L_N	Up	yes	yes	no	no	Human
+ULBP2	2.915344	5.43E-21	GSE121212	L_N	Up	yes	yes	no	no	Human
+UNC5A	2.110234	1.36E-07	GSE121212	L_N	Up	yes	yes	no	no	Human
+UPP1	2.033096	6.12E-36	18_L	L_N	Up	yes	yes	no	no	Human
+UPP1	2.064578	2.35E-30	GSE121212	L_N	Up	yes	yes	no	no	Human
+UPP1	11.70015	0.000164	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+UPP1	3.83211	5.68E-05	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+UPP1	3.571841	0.000164	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+UPP1	5.705632	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+UPP1	2.864174	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+UPP1	2.831492	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+USP9Y	-2.4	0.035	GSE75890	L_N	Down	yes	yes	no	no	Human
+UTS2R	2.173335	1.59E-15	18_NL_N	NL_N	Up	yes	yes	no	no	Human
+UTY	-2.88	0.065	GSE75890	L_N	Down	yes	yes	no	no	Human
+VCAN	2.095801	0.000537	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+VDR	2.808372	0.003762	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+VDR	2.176946	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+VDR	3.063654	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+VGLL3	-2.02	0.0002	GSE16161	L_N	Down	yes	yes	no	no	Human
+VMO1	2.354619	0.009605	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+VNN3	3.65464	8.01E-13	GSE121212	L_N	Up	yes	yes	no	no	Human
+VSTM2A	2.291405	0.002279	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+VTN	2.321572	0.011134	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+VWA2	2.316191	0.029295	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+VWA2	2.382463	0.027708	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+VWA3B	3.010007	0.019631	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+VWA3B	2.241051	0.042766	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+WASF3	2.278529	0.017097	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+WASF3	2.360756	0.017097	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+WDFY4	2.072007	1.09E-27	GSE121212	L_N	Up	yes	yes	no	no	Human
+WDR37	2.713489	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+WDR66	2.098343	6.44E-20	GSE121212	L_N	Up	yes	yes	no	no	Human
+WFIKKN2	-2.57058	4.70E-15	GSE121212	L_N	Down	yes	yes	no	no	Human
+WIF1	-3.8986	1.80E-35	18_L	L_N	Down	yes	yes	no	no	Human
+WIF1	-2.48559	1.60E-13	GSE121212	L_N	Down	yes	yes	no	no	Human
+WIF1	-3.85	4.10E-05	GSE16161	L_N	Down	yes	yes	no	no	Human
+WIF1	-3.33	0.00017	GSE32924	L_N	Down	yes	yes	no	no	Human
+WIZ	2.048774	0.025696	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+WNT5A	2.16	5.10E-06	GSE16161	L_N	Up	yes	yes	no	no	Human
+WNT5B	3.037951	0.002279	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+WNT5B	2.93752	0.002977	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+WWC1	2.47083	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+XDH	2.09347	0.000108	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+XDH	2.07193	0.001611	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+XIRP2	-2.14088	0.002372	GSE121212	L_N	Down	yes	yes	no	no	Human
+XIST	3.34	0.068	GSE75890	L_N	Up	yes	yes	no	no	Human
+YPEL4	2.082593	0.019223	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ZBTB22	2.014731	0.004649	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ZBTB34	2.261879	0.033047	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ZBTB4	2.265212	0.001474	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ZC3H12A	5.602071	0.005192	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ZC3H12A	3.39442	0.02313	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ZCCHC9	2.791989	0.03332	GSE6012_NL	NL_N	Up	yes	yes	no	no	Human
+ZFP106	2.797055	0.01961	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ZIC3	2.187116	0.009605	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ZIC4	-2.01	0.0011	GSE140227	L_N	Down	yes	yes	no	no	Human
+ZIC4	-2.01	0.0011	GSE140227	L_N	Down	yes	yes	no	no	Human
+ZIM2	-2.65477	6.62E-05	GSE121212	L_N	Down	yes	yes	no	no	Human
+ZNF30	2.037741	0.001871	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ZNF470	2.075529	0.003729	GSE6012_L_NL	L_vs_NL	Up	yes	yes	no	no	Human
+ZNF516	2.101985	0.009605	GSE6012_L	L_N	Up	yes	yes	no	yes	Human
+ZNF658	2.073396	0.011134	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ZNF676	-2.05188	4.62E-10	GSE121212	L_N	Down	yes	yes	no	no	Human
+ZNF677	2.477554	0.002279	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ZNF79	2.105201	0.014855	GSE6012_L	L_N	Up	yes	yes	no	no	Human
+ZNF890P	-2.01948	0.001926	GSE121212	L_N	Down	yes	yes	no	no	Human
+ZP4	3.135421	0.006444	GSE121212	L_N	Up	yes	yes	no	no	Human
+ZSCAN4	-2.49116	5.97E-08	GSE121212	L_N	Down	yes	yes	no	no	Human
+AC002331.1	2.148386	0.000185	GSE121212	L_N	Up	no	no	no	no	Human
+AC002451.3	-2.91991	3.41E-07	GSE121212	L_N	Down	no	no	no	no	Human
+AC003090.1	-2.7091	5.92E-12	GSE121212	L_N	Down	no	no	no	no	Human
+AC004870.5	3.621692	1.45E-11	GSE121212	L_N	Up	no	no	no	no	Human
+AC005498.3	-2.11043	1.66E-05	GSE121212	L_N	Down	no	no	no	no	Human
+AC006262.11	-2.22005	2.21E-22	GSE121212	L_N	Down	no	no	no	no	Human
+AC006372.5	2.394114	7.06E-06	GSE121212	L_N	Up	no	no	no	no	Human
+AC007163.3	2.306077	2.19E-05	GSE121212	L_N	Up	no	no	no	no	Human
+AC007563.5	-2.16529	1.05E-07	GSE121212	L_N	Down	no	no	no	no	Human
+AC008268.1	-5.37888	4.61E-18	GSE121212	L_N	Down	no	no	no	no	Human
+AC010731.2	2.44559	1.71E-05	GSE121212	L_N	Up	no	no	no	no	Human
+AC011288.2	3.225907	3.85E-05	GSE121212	L_N	Up	no	no	no	no	Human
+AC011648.1	2.321754	1.09E-07	GSE121212	L_N	Up	no	no	no	no	Human
+AC011752.1	-3.58095	8.43E-21	GSE121212	L_N	Down	no	no	no	no	Human
+AC017002.1	2.06992	6.69E-05	GSE121212	L_N	Up	no	no	no	no	Human
+AC018742.1	-2.31767	0.000116	GSE121212	L_N	Down	no	no	no	no	Human
+AC022182.2	2.232994	1.13E-06	GSE121212	L_N	Up	no	no	no	no	Human
+AC027612.4	2.97071	1.05E-06	GSE121212	L_N	Up	no	no	no	no	Human
+AC067959.1	-2.33086	1.98E-27	GSE121212	L_N	Down	no	no	no	no	Human
+AC069363.1	4.165436	1.81E-18	GSE121212	L_N	Up	no	no	no	no	Human
+AC079325.6	3.114139	5.28E-07	GSE121212	L_N	Up	no	no	no	no	Human
+AC079753.5	-3.49822	2.42E-20	GSE121212	L_N	Down	no	no	no	no	Human
+AC092580.4	2.189502	3.01E-08	GSE121212	L_N	Up	no	no	no	no	Human
+AC105049.1	2.083993	4.02E-09	GSE121212	L_N	Up	no	no	no	no	Human
+AC106801.1	2.199443	5.84E-10	GSE121212	L_N	Up	no	no	no	no	Human
+AC108142.1	2.376468	2.91E-06	GSE121212	L_N	Up	no	no	no	no	Human
+AC112721.2	3.149462	2.51E-05	GSE121212	L_N	Up	no	no	no	no	Human
+AC133644.2	2.137502	2.96E-07	GSE121212	L_N	Up	no	no	no	no	Human
+AC138647.1	-4.72623	3.26E-16	GSE121212	L_N	Down	no	no	no	no	Human
+ADIPOQ-AS1	-2.08	0.0109	GSE140227	L_N	Down	no	no	no	no	Human
+ADORA2BP1	-2.75538	2.18E-20	GSE121212	L_N	Down	no	no	no	no	Human
+AF064858.6	2.168211	2.00E-12	GSE121212	L_N	Up	no	no	no	no	Human
+AGKP1	2.292783	0.019299	GSE121212	L_N	Up	no	no	no	no	Human
+AGXT2L1	2.237188	0.002977	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+AL591704.7	4.748834	1.89E-13	GSE121212	L_N	Up	no	no	no	no	Human
+AMT /// LOC485342	2.015065	0.001919	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+ANKRD20A5P	3.658002	9.92E-18	GSE121212	L_N	Up	no	no	no	no	Human
+AOH2	3.486614	0.003762	GSE6012_L	L_N	Up	no	no	no	no	Human
+AOH2	4.720895	0.001128	GSE6012_L	L_N	Up	no	no	no	no	Human
+AOH2	2.841033	0.008775	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+AOH2	3.981066	0.004649	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+AOH3	2.590195	0.029295	GSE6012_L	L_N	Up	no	no	no	no	Human
+AOX2P	2.743497	2.34E-06	GSE121212	L_N	Up	no	no	no	no	Human
+AP000344.3	-2.5224	2.89E-11	GSE121212	L_N	Down	no	no	no	no	Human
+AP000439.3	-2.37735	8.62E-43	GSE121212	L_N	Down	no	no	no	no	Human
+AP000695.4	2.285611	3.36E-05	GSE121212	L_N	Up	no	no	no	no	Human
+AP001610.5	2.298858	2.49E-08	GSE121212	L_N	Up	no	no	no	no	Human
+AREGB	2.051273	0.021275	GSE121212	L_N	Up	no	no	no	no	Human
+ARMC4	2.425809	0.000365	GSE6012_L	L_N	Up	no	no	no	no	Human
+ARMC4	2.390572	0.003729	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+ARSE	2.087216	0.03332	GSE6012_L	L_N	Up	no	no	no	no	Human
+ARSE	2.195595	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+ARSH	3.235912	0.037809	GSE6012_L	L_N	Up	no	no	no	no	Human
+ARSH	2.235701	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+ASS1P10	-2.74943	5.80E-07	GSE121212	L_N	Down	no	no	no	no	Human
+Bak1	2.865671	0.000782	GSE6012_L	L_N	Up	no	no	no	no	Human
+Bak1	2.228478	0.017097	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+BCMO1	3.13492	0.003191	GSE6012_L	L_N	Up	no	no	no	no	Human
+BCMO1	2.847891	0.005772	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+BRAFP1	-2.04	0.0014	GSE140227	L_N	Down	no	no	no	no	Human
+BVES	2.175007	0.007096	GSE6012_L	L_N	Up	no	no	no	no	Human
+C10orf71	-2.06047	6.04E-13	GSE121212	L_N	Down	no	no	no	no	Human
+C10orf71_AS1	-3.49821	3.01E-08	GSE121212	L_N	Down	no	no	no	no	Human
+C10orf99	4.402739	########	18_L	L_N	Up	no	no	no	no	Human
+C10orf99	3.496364	4.98E-51	GSE121212	L_N	Up	no	no	no	no	Human
+C10orf99	2.35	0.037	GSE5667	L_N	Up	no	no	no	no	Human
+C10orf99	3.08	3.70E-06	GSE75890	L_N	Up	no	no	no	no	Human
+C10orf99	3.17	0.023	Acute_GSE36842	L_vs_NL	Up	no	no	no	no	Human
+C12orf74	3.001163	6.19E-07	GSE121212	L_N	Up	no	no	no	no	Human
+C15orf59_AS1	-2.01011	4.17E-05	GSE121212	L_N	Down	no	no	no	no	Human
+C17orf96	2.009106	2.22E-29	18_L	L_N	Up	no	no	no	no	Human
+C17orf96	2.428897	2.17E-34	GSE121212	L_N	Up	no	no	no	no	Human
+C1orf158	-2.17631	0.000939	GSE121212	L_N	Down	no	no	no	no	Human
+C1orf68	-3.52	1.70E-06	GSE16161	L_N	Down	no	no	no	no	Human
+C1orf68	-2.79	2.10E-05	GSE32924	L_N	Down	no	no	no	no	Human
+C1QTNF1_AS1	3.670097	5.09E-23	GSE121212	L_N	Up	no	no	no	no	Human
+C2orf40	-2.10266	1.49E-17	GSE121212	L_N	Down	no	no	no	no	Human
+C5orf46	-3.17878	8.04E-51	GSE121212	L_N	Down	no	no	no	no	Human
+C5orf46	-2.94	5.40E-06	GSE32924	L_N	Down	no	no	no	no	Human
+C6orf223	2.265927	1.66E-11	18_L	L_N	Up	no	no	no	no	Human
+C6orf223	3.452564	3.43E-21	GSE121212	L_N	Up	no	no	no	no	Human
+CAPZA3	2.172391	0.048341	GSE6012_L	L_N	Up	no	no	no	no	Human
+CAPZA3	2.273763	0.019631	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+CARD18	-2.49	0.00012	GSE32924	L_N	Down	no	no	no	no	Human
+CARM1P1	2.002419	0.001729	GSE121212	L_N	Up	no	no	no	no	Human
+CCDC147	2.58351	0.005192	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+CCDC19	2.574901	0.029295	GSE6012_L	L_N	Up	no	no	no	no	Human
+CCDC19	2.304683	0.013104	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+CD8BP	2.494667	1.10E-09	GSE121212	L_N	Up	no	no	no	no	Human
+CENTB2	2.591627	0.029268	GSE6012_L	L_N	Up	no	no	no	no	Human
+CLEC4M	2.169463	0.005192	GSE6012_L	L_N	Up	no	no	no	no	Human
+CLLU1	2.737376	7.28E-06	GSE121212	L_N	Up	no	no	no	no	Human
+CLLU1OS	2.634056	2.60E-06	GSE121212	L_N	Up	no	no	no	no	Human
+COL29A1	12.07188	0.001611	GSE6012_L	L_N	Up	no	no	no	no	Human
+COL29A1	3.276098	0.011134	GSE6012_L	L_N	Up	no	no	no	no	Human
+COL29A1	5.704793	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+COL29A1	2.230764	0.02313	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+cOR10A3	2.391042	0.02313	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+cOR2T13	2.445229	0.037809	GSE6012_L	L_N	Up	no	no	no	no	Human
+cOR6M4	3.37729	0.005772	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+cOR6M4	2.255717	0.03332	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+cOR8D6	2.847425	0.01961	GSE6012_L	L_N	Up	no	no	no	no	Human
+cOR8D6	3.827707	0.008775	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+CRAMP1L	2.054043	0.008266	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+CTA_363E6.6	2.105343	2.30E-06	GSE121212	L_N	Up	no	no	no	no	Human
+CTA_384D8.31	3.309705	3.96E-10	GSE121212	L_N	Up	no	no	no	no	Human
+CTA_384D8.35	2.978826	1.89E-20	GSE121212	L_N	Up	no	no	no	no	Human
+CTA_392E5.1	2.147153	0.000308	GSE121212	L_N	Up	no	no	no	no	Human
+CTB_114C7.4	2.310358	0.018938	GSE121212	L_N	Up	no	no	no	no	Human
+CTC_254B4.1	-2.1061	0.000678	GSE121212	L_N	Down	no	no	no	no	Human
+CTC_327F10.1	-2.12342	2.60E-05	GSE121212	L_N	Down	no	no	no	no	Human
+CTC_327F10.4	-2.98385	3.15E-30	GSE121212	L_N	Down	no	no	no	no	Human
+CTC_327F10.5	-2.96433	6.12E-31	GSE121212	L_N	Down	no	no	no	no	Human
+CTC_490G23.2	3.318588	4.21E-06	GSE121212	L_N	Up	no	no	no	no	Human
+CTC_518B2.8	2.150838	1.07E-19	GSE121212	L_N	Up	no	no	no	no	Human
+CTD_2555C10.3	2.075365	4.05E-13	GSE121212	L_N	Up	no	no	no	no	Human
+CTD_3064M3.7	2.007925	0.000115	GSE121212	L_N	Up	no	no	no	no	Human
+CUBNP3	-2.24694	0.000341	GSE121212	L_N	Down	no	no	no	no	Human
+CYP2A13 /// CYP2A25	4.183677	0.003729	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+DCDC5	2.638052	0.013104	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+DEFB103A	3.816073	9.68E-12	GSE121212	L_N	Up	no	no	no	yes	Human
+DLA-64	2.313035	0.000133	GSE6012_L	L_N	Up	no	no	no	no	Human
+DLA-79	2.534695	0.002279	GSE6012_L	L_N	Up	no	no	no	no	Human
+DLA-DQA1	2.145073	0.004425	GSE6012_L	L_N	Up	no	no	no	no	Human
+DLA-DQB1	2.343972	0.001611	GSE6012_L	L_N	Up	no	no	no	no	Human
+DRAIC	2.607251	1.78E-11	GSE121212	L_N	Up	no	no	no	no	Human
+EEF1GP2	-4.5567	5.12E-19	GSE121212	L_N	Down	no	no	no	no	Human
+ELA1	2.242147	0.015906	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+EMR1	2.768195	0.029295	GSE6012_L	L_N	Up	no	no	no	no	Human
+EMR1	2.195941	0.000365	GSE6012_L	L_N	Up	no	no	no	no	Human
+EMR3	2.537395	0.029295	GSE6012_L	L_N	Up	no	no	no	no	Human
+EXDL1	2.051323	0.002977	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+FAM159A	2.122002	0.000221	GSE121212	L_N	Up	no	no	no	no	Human
+FLJ26245	-2.66861	0.000991	GSE121212	L_N	Down	no	no	no	no	Human
+G10019	-2.93771	2.02E-13	GSE121212	L_N	Down	no	no	no	no	Human
+G10488	-4.64158	3.24E-18	GSE121212	L_N	Down	no	no	no	no	Human
+G10489	-3.60725	1.20E-20	GSE121212	L_N	Down	no	no	no	no	Human
+G10551	-2.22485	0.000177	GSE121212	L_N	Down	no	no	no	no	Human
+G11194	-3.98116	2.27E-12	GSE121212	L_N	Down	no	no	no	no	Human
+G11279	2.170778	5.08E-08	GSE121212	L_N	Up	no	no	no	no	Human
+G12186	-2.82248	1.89E-10	GSE121212	L_N	Down	no	no	no	no	Human
+G12854	2.00731	7.25E-10	GSE121212	L_N	Up	no	no	no	no	Human
+G13548	-2.64089	8.31E-06	GSE121212	L_N	Down	no	no	no	no	Human
+G13883	3.301461	6.32E-18	GSE121212	L_N	Up	no	no	no	no	Human
+G16052	2.399047	0.001368	GSE121212	L_N	Up	no	no	no	no	Human
+G16208	3.427504	1.62E-05	GSE121212	L_N	Up	no	no	no	no	Human
+G18355	-2.36141	2.98E-13	GSE121212	L_N	Down	no	no	no	no	Human
+G19270	-5.66534	3.04E-31	GSE121212	L_N	Down	no	no	no	no	Human
+G22304	-2.11162	0.001663	GSE121212	L_N	Down	no	no	no	no	Human
+G23772	-2.83878	7.91E-13	GSE121212	L_N	Down	no	no	no	no	Human
+G23773	-2.79799	3.06E-16	GSE121212	L_N	Down	no	no	no	no	Human
+G23907	-2.49471	4.52E-13	GSE121212	L_N	Down	no	no	no	no	Human
+G25046	-3.75201	4.14E-12	GSE121212	L_N	Down	no	no	no	no	Human
+G25251	4.021039	1.48E-10	GSE121212	L_N	Up	no	no	no	no	Human
+G25746	-2.29794	2.75E-33	GSE121212	L_N	Down	no	no	no	no	Human
+G2608	4.54074	3.67E-15	GSE121212	L_N	Up	no	no	no	no	Human
+G26457	2.730295	4.95E-06	GSE121212	L_N	Up	no	no	no	no	Human
+G26809	2.151246	1.01E-06	GSE121212	L_N	Up	no	no	no	no	Human
+G27536	-2.49312	2.92E-08	GSE121212	L_N	Down	no	no	no	no	Human
+G28007	-2.19853	0.000315	GSE121212	L_N	Down	no	no	no	no	Human
+G30143	-2.32889	7.60E-17	GSE121212	L_N	Down	no	no	no	no	Human
+G30345	-3.56393	2.83E-32	GSE121212	L_N	Down	no	no	no	no	Human
+G30952	-2.00621	4.57E-13	GSE121212	L_N	Down	no	no	no	no	Human
+G32308	2.78894	8.77E-08	GSE121212	L_N	Up	no	no	no	no	Human
+G32422	-3.34796	4.03E-13	GSE121212	L_N	Down	no	no	no	no	Human
+G33755	4.202595	8.23E-22	GSE121212	L_N	Up	no	no	no	no	Human
+G33836	-2.65377	9.70E-07	GSE121212	L_N	Down	no	no	no	no	Human
+G33837	-4.00382	2.09E-11	GSE121212	L_N	Down	no	no	no	no	Human
+G3386	3.950873	2.47E-09	GSE121212	L_N	Up	no	no	no	no	Human
+G3405	-3.86258	9.80E-16	GSE121212	L_N	Down	no	no	no	no	Human
+G34082	2.257317	1.87E-08	GSE121212	L_N	Up	no	no	no	no	Human
+G34083	3.41201	8.90E-08	GSE121212	L_N	Up	no	no	no	no	Human
+G34162	2.646698	2.95E-22	GSE121212	L_N	Up	no	no	no	no	Human
+G35308	-2.40577	0.000135	GSE121212	L_N	Down	no	no	no	no	Human
+G35484	6.389064	8.44E-31	GSE121212	L_N	Up	no	no	no	no	Human
+G36419	-2.43626	4.35E-09	GSE121212	L_N	Down	no	no	no	no	Human
+G36656	2.076571	0.018384	GSE121212	L_N	Up	no	no	no	no	Human
+G3793	-3.5576	4.21E-29	GSE121212	L_N	Down	no	no	no	no	Human
+G39634	4.092756	2.73E-35	GSE121212	L_N	Up	no	no	no	no	Human
+G39805	-3.20931	6.83E-14	GSE121212	L_N	Down	no	no	no	no	Human
+G40138	-4.61112	3.88E-16	GSE121212	L_N	Down	no	no	no	no	Human
+G4024	2.236691	1.21E-06	GSE121212	L_N	Up	no	no	no	no	Human
+G41001	3.218165	5.86E-34	GSE121212	L_N	Up	no	no	no	no	Human
+G41767	-2.10311	0.000227	GSE121212	L_N	Down	no	no	no	no	Human
+G43312	-2.68204	7.35E-13	GSE121212	L_N	Down	no	no	no	no	Human
+G43485	-2.74332	7.12E-06	GSE121212	L_N	Down	no	no	no	no	Human
+G43605	2.299859	0.012491	GSE121212	L_N	Up	no	no	no	no	Human
+G5664	-3.64234	1.62E-08	GSE121212	L_N	Down	no	no	no	no	Human
+G7779	3.956173	2.35E-28	GSE121212	L_N	Up	no	no	no	no	Human
+G8260	2.991248	8.79E-09	GSE121212	L_N	Up	no	no	no	no	Human
+GPC5_AS2	-2.80453	1.28E-07	GSE121212	L_N	Down	no	no	no	no	Human
+GPR110	2.49	0.0031	GSE140227	L_N	Up	no	no	no	no	Human
+GPR110	2.49	0.0031	GSE140227	L_N	Up	no	no	no	no	Human
+GPR110	2.49	0.0031	GSE140227	L_N	Up	no	no	no	no	Human
+GPR110	2.49	0.0031	GSE140227	L_N	Up	no	no	no	no	Human
+GPR112	2.252824	0.002366	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+GPR149	2.418338	3.14E-08	GSE121212	L_N	Up	no	no	no	no	Human
+GPR98	3.901449	0.003191	GSE6012_L	L_N	Up	no	no	no	no	Human
+GPR98	2.22376	0.042802	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+HSPD1P3	4.370696	3.95E-09	GSE121212	L_N	Up	no	no	no	no	Human
+IGFL2	-2.68	2.30E-06	GSE32924	L_N	Down	no	no	no	no	Human
+IGFL4	2.544523	3.88E-32	GSE121212	L_N	Up	no	no	no	no	Human
+IGKV2_24	-2.87604	5.41E-05	GSE121212	L_N	Down	no	no	no	no	Human
+IGKV6_21	-2.57585	1.76E-05	GSE121212	L_N	Down	no	no	no	no	Human
+IGLV1_40	-2.29097	0.041842	GSE121212	L_N	Down	no	no	no	no	Human
+IL1F8	2.775373	0.009605	GSE6012_L	L_N	Up	no	no	no	no	Human
+IL1F8	2.53064	0.003729	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+IL26	4.532362	2.71E-21	GSE121212	L_N	Up	no	no	no	no	Human
+IL26	4.691217	0.006077	GSE6012_L	L_N	Up	no	no	no	no	Human
+IL26	3.10246	0.011134	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+IL8	10.17983	0.001919	GSE6012_L	L_N	Up	no	no	no	no	Human
+IL8	8.90208	0.003191	GSE6012_L	L_N	Up	no	no	no	no	Human
+IL8	5.270975	0.025696	GSE6012_L	L_N	Up	no	no	no	no	Human
+IL8	8.244961	0.002366	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+IL8	6.122124	0.010747	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+IL8	5.734618	0.013104	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+INDO	3.754688	0.0027	GSE6012_L	L_N	Up	no	no	no	no	Human
+INDO	3.468244	0.003191	GSE6012_L	L_N	Up	no	no	no	no	Human
+IQCF2	2.3558	0.019631	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+KB_1410C5.1	-2.33001	5.46E-07	GSE121212	L_N	Down	no	no	no	no	Human
+KB_1410C5.2	-3.14295	3.07E-12	GSE121212	L_N	Down	no	no	no	no	Human
+KB_1410C5.3	-3.47017	5.61E-36	GSE121212	L_N	Down	no	no	no	no	Human
+KRT16P5	2.965482	3.30E-12	GSE121212	L_N	Up	no	no	no	no	Human
+KRT31 /// KRT33A /// KRT33B /// KRT34	2.634322	0.010747	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+KRT37	6.55755	0.003191	GSE6012_L	L_N	Up	no	no	no	no	Human
+KRT37	2.962704	0.029295	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+KRT43P	-2.01859	2.45E-05	GSE121212	L_N	Down	no	no	no	no	Human
+KRTAP5-2	2.22	0.012	GSE75890	L_N	Up	no	no	no	no	Human
+KRTAP5-3	2.01	0.014	GSE75890	L_N	Up	no	no	no	no	Human
+KRTAP5-8	2	0.061	GSE75890	L_N	Up	no	no	no	no	Human
+LA16c_325D7.1	2.029329	0.00013	GSE121212	L_N	Up	no	no	no	no	Human
+LECT1	2.793397	0.0027	GSE6012_L	L_N	Up	no	no	no	no	Human
+LINC00302	-3.74	3.40E-06	GSE16161	L_N	Down	no	no	no	no	Human
+LINC00302	-2.43	0.0014	GSE32924	L_N	Down	no	no	no	no	Human
+LINC00330	-2.15867	0.001661	GSE121212	L_N	Down	no	no	no	no	Human
+LINC01010	2.295396	1.96E-31	GSE121212	L_N	Up	no	no	no	no	Human
+LINC01020	-2.0111	5.18E-07	18_L	L_N	Down	no	no	no	no	Human
+LINC01153	-2.38065	0.000868	GSE121212	L_N	Down	no	no	no	no	Human
+LINC01206	4.419635	3.87E-14	GSE121212	L_N	Up	no	no	no	no	Human
+LINC01206	2.78	0.0069	GSE140227	L_N	Up	no	no	no	no	Human
+LINC01206	2.78	0.0069	GSE140227	L_N	Up	no	no	no	no	Human
+LINC01215	4.824041	3.89E-31	GSE121212	L_N	Up	no	no	no	no	Human
+LINC01219	-2.07345	5.11E-06	GSE121212	L_N	Down	no	no	no	no	Human
+LINC01251	2.016234	4.81E-05	GSE121212	L_N	Up	no	no	no	no	Human
+LINC01254	-2.08333	1.03E-38	GSE121212	L_N	Down	no	no	no	no	Human
+LINC01272	2.016246	2.13E-29	18_L	L_N	Up	no	no	no	no	Human
+LINC01446	-3.4548	0.003056	GSE121212	L_N	Down	no	no	no	no	Human
+LINC01698	-2.46	0.019	GSE75890	L_N	Down	no	no	no	no	Human
+LOC100130476	-2.12	5.20E-05	GSE32924	L_N	Down	no	no	no	no	Human
+LOC102724427	-2.66	3.80E-05	GSE75890	L_N	Down	no	no	no	no	Human
+LOC105373098	2.03	0.00059	GSE75890	L_N	Up	no	no	no	no	Human
+LOC107984005	-2.09	0.002	GSE75890	L_N	Down	no	no	no	no	Human
+LOC157273	-2.3875	7.75E-12	18_L	L_N	Down	no	no	no	no	Human
+LOC401134	-2.24427	2.02E-11	18_L	L_N	Down	no	no	no	no	Human
+LOC403530	2.077075	0.046399	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC448801	2.507486	0.001611	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC448801	2.259051	0.000537	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC474570	2.893567	0.001871	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC474634	2.509526	0.012876	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC474642	2.273041	0.009605	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC474642	2.129003	0.022486	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC474769	2.35846	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC474811	2.000711	0.042802	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC474811	2.225128	0.007132	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC474990	2.139638	0.027708	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC475044 /// LOC476099 /// LOC477645 /// LOC477765 /// LOC481926 /// LOC482001 /// LOC484696 /// LOC484708 /// LOC486707 /// LOC487279 /// LOC487696 /// LOC488116 /// LOC488418 /// LOC490392 /// LOC607098 /// LOC607099 /// LOC607332 /// LOC607525 /// LOC607650 /// LOC608035 /// LOC608117 /// LOC608729 /// LOC608917 /// LOC609099 /// LOC609171 /// LOC612480 /// LOC612482	2.026586	0.039243	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC475044 /// LOC481926 /// LOC484708 /// LOC487279 /// LOC488418 /// LOC490392 /// LOC608729 /// LOC609171	2.176701	0.033047	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC475066	2.21745	0.019631	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC475157	2.100897	0.03332	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC475367	2.075125	0.012876	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC475367	2.407027	0.001128	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC475367	2.8688	0.003191	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC475367	2.071947	0.002977	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC475383	2.232494	0.012876	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC475690	3.372689	0.003729	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC475790	2.278419	0.03332	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC475790	2.402455	0.002977	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC475790	2.115664	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC476029	2.685431	0.006077	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC476059	2.071602	0.03332	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC476149	2.677367	0.011134	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC476380	2.317306	0.007096	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC476920	2.042142	0.046399	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC477355	2.512846	0.017634	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC477770 /// PECR	2.276852	0.001871	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC477792	2.110517	0.03332	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC477853	2.599968	0.037678	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC478102	2.461773	0.014855	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC478182	2.00799	0.008266	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC478212 /// LOC479765	2.236002	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC478287	9.941882	0.000365	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC478287	6.683578	0.000246	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC478287	6.232193	0.000941	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC478287	4.957553	0.001871	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC478287	4.123613	0.002977	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC478287	4.04556	0.004649	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC478335	2.416108	0.007096	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC478335	2.253244	0.027708	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC478411	2.511167	0.039243	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC478488	2.04293	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC478692	2.111221	0.027708	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC478705	2.003957	0.039243	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC478994	2.252656	0.022486	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC479089	2.492365	0.037809	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC479268	3.695329	0.039243	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC479268	3.208869	0.017634	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC479290	2.469315	0.037809	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC479329	2.287936	0.000246	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC479329	2.088584	0.00135	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC479330	2.617889	0.022486	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC479330	2.624526	0.013104	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC479340	2.004334	0.000649	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC479458	2.257697	0.0003	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC479458	2.033069	0.0003	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC479772	2.315786	0.037809	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC479934	2.077287	0.029295	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC479934	2.521661	0.048341	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC479934	2.606171	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC480186	2.010561	0.002279	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC480336	2.366612	0.003762	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC480336	2.551412	0.006077	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC480336	2.129956	0.001474	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC480351	2.29701	0.03329	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC480432	2.256149	0.025696	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC480601	2.388347	0.000164	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC480601	2.115307	8.74E-05	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC480602	2.675832	0.000201	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC480602	2.346652	0.013104	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC480675	2.076591	0.048341	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC480692	2.087044	0.011134	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC480785	2.094386	0.037809	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC480785	2.232703	0.007132	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC480882	2.230778	0.022486	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC481649	3.155216	0.027708	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC481663	2.093253	0.004425	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC481715	2.282889	0.048341	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC482058	3.128296	0.005772	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC482225	2.312881	0.029295	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC482225	2.212991	0.039243	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC482236	2.006556	0.03332	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC482273 /// LOC611583	2.055775	0.004649	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC482428	2.224283	0.014855	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC482428	2.137255	0.004649	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC482436	14.40974	0.009605	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC482436	11.404	0.008775	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC483398	2.09585	0.004425	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC483406	3.163197	0.004425	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC483484	2.00869	0.027708	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC484191	2.29936	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC484264	2.211342	0.025696	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC484384	2.993691	0.000941	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC484645	2.181006	0.039243	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC484715	2.404189	0.033047	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC484866	2.432729	0.006077	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC484866	2.864428	0.013104	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC484879	2.649135	0.02313	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC484879	2.289226	0.048341	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC484882	2.488204	0.008266	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC484914	2.217392	0.009605	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC485096	2.006853	0.001128	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC485143	2.41603	0.049555	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC485295	2.718594	0.004425	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC485316	2.18361	0.048341	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC485325 /// LOC610911	2.198668	0.022486	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC485416	2.645621	0.005192	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC485435	2.178852	0.003762	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC485452	3.073684	0.008266	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC485516	2.269913	0.019631	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC485714	2.024391	0.046399	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC485822	2.099864	0.006077	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC485909	2.447572	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC486036	3.238054	0.005184	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC486384	3.330342	0.014855	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC486404	2.248014	0.009605	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC486484	3.375385	0.042447	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC486484	3.721552	0.005772	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC486528	2.21656	0.048341	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC486528	2.490751	0.03332	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC486528	2.077534	0.001871	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC486528	2.548075	0.001871	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC486692 /// LOC609192 /// LOC611332	2.368691	0.022486	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC486877	2.205838	0.013104	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC487017	3.37198	0.00135	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC487017	2.507165	0.002366	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC487760	2.240349	0.012876	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC487808	2.073941	0.017097	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC487854	3.159755	0.007096	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC487854	3.422459	0.010747	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC487998	2.370217	0.039243	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC487998	2.365656	0.03332	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC488149	3.048333	0.013104	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC488734	2.169383	0.013104	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC488882	2.512945	0.013104	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC488882	3.358432	0.007132	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC489001	2.015355	0.008266	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC489394	2.191511	0.019631	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC489675	3.518839	0.017097	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC489923	2.661527	0.025696	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC489923	2.593505	0.008775	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC490039	3.184818	0.046399	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC490060	2.363516	0.0027	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC490132	2.162169	0.008266	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC490132	2.811849	7.06E-05	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC490390	2.110688	0.013104	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC490524	2.221266	0.019631	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC490554	2.041666	0.029295	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC490554	2.212417	0.048341	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC490554	2.881462	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC490554	2.184735	0.019631	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC490595	2.425486	0.035985	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC490814	2.239586	0.039243	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC490959	2.242887	0.001611	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC491203	2.061157	0.008266	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC491270	2.028141	0.046399	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC491323	2.213568	0.007096	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC491391 /// LOC491686 /// LOC607996 /// LOC608202 /// LOC608379 /// LOC609845 /// LOC610282 /// LOC611902	2.456661	0.046399	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC491434	3.244356	7.06E-05	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC491434	2.217916	0.011134	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC491504	2.282871	0.02313	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC491504	3.854861	0.000782	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC491518	2.012007	0.033047	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC491958	2.783546	0.006077	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC492026	2.25803	0.03332	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC492268	2.04999	0.046399	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC492268	2.188221	0.017097	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC606794	2.038652	0.029295	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC606828	2.112252	0.019631	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC606828	3.242992	0.001474	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC606870	2.398817	0.007132	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC606998	2.184574	0.013104	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC607055	2.191804	0.014855	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC607091	2.326926	0.006077	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC607323	2.580264	0.033047	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC607366	2.287822	0.017097	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC607396	2.630849	0.029295	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC607627	2.968278	0.046399	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC607729	3.700105	0.015906	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC607855	2.442034	0.042802	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC607855	3.487097	0.008775	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC608003	2.028726	0.014855	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC608057	2.937088	0.000649	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC608072	3.358334	0.017097	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC608072	2.5336	0.007132	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC608177	2.690471	0.029295	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC608177	2.668629	0.029295	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC608302	2.234074	0.033047	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC608422	3.714901	0.006077	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC608422	2.792042	0.002977	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC608729	2.309779	0.034408	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC608754	2.222197	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC608829	3.07909	0.025329	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC608996	2.348496	0.014855	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC609247	2.833026	0.007096	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC609247	2.220379	0.033047	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC609311	2.046012	0.017097	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC609334	2.520068	0.000201	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC609334	2.975362	0.005772	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC609360	2.011849	0.027708	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC609360	3.185518	0.006042	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC609478	2.214223	0.03332	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC609874	2.158243	0.000443	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC609981	2.587514	0.014855	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC609989	2.073575	0.029295	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC610007	3.505152	0.001919	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC610007	2.943423	0.010747	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC610091	2.15427	0.027708	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC610304	2.024024	0.017097	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC610597	2.298384	0.007096	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC610597	2.244588	0.003729	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC610649	3.967755	0.002279	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC610669	2.254656	0.037809	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC611190	2.080775	0.006077	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC611301	2.643404	0.005772	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC611352	2.036496	0.048341	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC611359	2.193578	0.004425	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC611400	2.797608	0.000537	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC611446	2.146555	0.027708	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC611583	2.711077	0.012876	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC611632	11.63978	0.000941	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC611632	4.077603	0.013104	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC611632	2.854565	0.048341	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC611894	2.230049	0.003191	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC611894	2.510935	0.001474	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC611915	2.029419	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC611915	2.039041	0.017097	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC612044	7.683865	0.002279	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC612044	6.6864	0.002977	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC612044	2.017289	0.027708	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC612065	2.181925	0.004425	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC612065	2.084845	0.000133	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC612108	2.061737	0.013104	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC612129	2.346133	0.000201	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC612250	2.183665	0.039243	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC612293	2.151898	0.000246	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC612358	2.280103	0.006077	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOC612375	2.367441	0.009605	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC612375	2.110877	0.039243	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC612383	2.028167	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC612534	3.408698	0.048341	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC612534	2.717922	0.005772	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+LOC612795	2.146694	0.048341	GSE6012_L	L_N	Up	no	no	no	no	Human
+LOC612795	2.033164	0.022486	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+LOR	-4.39	0.0001	GSE16161	L_N	Down	no	no	no	no	Human
+LOR	-2.95	0.00019	GSE32924	L_N	Down	no	no	no	no	Human
+LRMP	2.035139	0.029295	GSE6012_L	L_N	Up	no	no	no	no	Human
+LRRC50	2.720262	0.011134	GSE6012_L	L_N	Up	no	no	no	no	Human
+LRRC6	2.004755	0.000246	GSE6012_L	L_N	Up	no	no	no	no	Human
+MFI2	2.255683	0.027708	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+MIR3945HG	3.064945	5.08E-05	GSE121212	L_N	Up	no	no	no	no	Human
+MIR6510	-2.13677	1.62E-14	18_L	L_N	Down	no	no	no	no	Human
+MLSTD1	2.797404	0.000782	GSE6012_L	L_N	Up	no	no	no	no	Human
+MLZE	3.334517	0.003191	GSE6012_L	L_N	Up	no	no	no	no	Human
+MLZE	2.028342	0.004649	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+MTHFD2P1	-2.00522	5.11E-10	18_L	L_N	Down	no	no	no	no	Human
+MTNR1B	2.627987	8.29E-06	GSE121212	L_N	Up	no	no	no	no	Human
+NAT6	2.078739	0.019223	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+NEK4P1	2.329186	0.000216	GSE121212	L_N	Up	no	no	no	no	Human
+NHEG1	-2.33187	6.22E-23	GSE121212	L_N	Down	no	no	no	no	Human
+NPY5R	-2.54458	2.50E-38	GSE121212	L_N	Down	no	no	no	no	Human
+NPY5R	-2.23	0.0014	GSE140227	L_N	Down	no	no	no	no	Human
+NTM_AS1	-2.3171	5.01E-08	GSE121212	L_N	Down	no	no	no	no	Human
+NUPL1	2.413144	0.020186	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+ODZ3	2.061251	0.027708	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+OR2I1P	3.260123	2.71E-10	GSE121212	L_N	Up	no	no	no	no	Human
+PAK7	-2.38416	7.17E-10	GSE121212	L_N	Down	no	no	no	no	Human
+PALM2	2.076538	0.033047	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+PCAT29	2.464932	1.84E-07	GSE121212	L_N	Up	no	no	no	no	Human
+PGAM1P7	2.042655	1.31E-06	GSE121212	L_N	Up	no	no	no	no	Human
+PHBP16	3.989821	3.86E-12	GSE121212	L_N	Up	no	no	no	no	Human
+PHLPPL	2.773455	0.004425	GSE6012_L	L_N	Up	no	no	no	no	Human
+PMCHL1	-3.43118	1.58E-06	GSE121212	L_N	Down	no	no	no	no	Human
+PTHR1	2.017885	0.012876	GSE6012_L	L_N	Up	no	no	no	no	Human
+PTHR1	2.14383	0.002366	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+PTPRD_AS1	-2.25301	0.001108	GSE121212	L_N	Down	no	no	no	no	Human
+RAD17P1	-3.63693	1.42E-08	GSE121212	L_N	Down	no	no	no	no	Human
+RBPJP7	-2.73669	5.83E-06	GSE121212	L_N	Down	no	no	no	no	Human
+RH30	2.783436	0.010747	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+RHOT1P1	2.644496	5.41E-07	GSE121212	L_N	Up	no	no	no	no	Human
+RN7SL142P	2.91889	7.12E-05	GSE121212	L_N	Up	no	no	no	no	Human
+RN7SL862P	2.555777	2.38E-08	GSE121212	L_N	Up	no	no	no	no	Human
+RNU5F_1	2.304658	6.97E-13	GSE121212	L_N	Up	no	no	no	no	Human
+RNU6_1161P	2.308444	0.001	GSE121212	L_N	Up	no	no	no	no	Human
+RNU6_140P	3.003749	1.65E-09	GSE121212	L_N	Up	no	no	no	no	Human
+RNU6_495P	-3.23446	1.09E-10	GSE121212	L_N	Down	no	no	no	no	Human
+RNU6_745P	2.757908	0.000155	GSE121212	L_N	Up	no	no	no	no	Human
+RNU6_911P	-2.21936	0.000205	GSE121212	L_N	Down	no	no	no	no	Human
+RNU6ATAC9P	2.04405	7.95E-05	GSE121212	L_N	Up	no	no	no	no	Human
+RP1_71H24.1	2.321517	7.55E-05	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_1008C21.1	-2.0053	2.69E-23	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_1070A24.2	2.504453	1.43E-06	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_114B7.6	2.101236	9.61E-05	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_115H18.1	-2.02508	0.000564	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_121E16.1	-2.18154	0.00017	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_145E17.3	-2.00893	0.000333	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_150O12.2	2.672926	2.48E-05	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_150O12.3	-3.24707	7.50E-24	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_15A1.9	-2.36214	8.76E-10	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_15F12.6	2.843888	9.94E-14	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_184M15.1	2.554144	9.26E-08	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_217L21.1	-2.54034	5.30E-06	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_243E13.2	2.953819	6.87E-09	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_24F11.2	2.115492	0.000124	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_275I4.2	2.507725	8.74E-08	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_288L9.4	2.496638	1.06E-05	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_339N8.1	2.019864	0.000827	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_350J20.12	2.911498	2.96E-29	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_380J14.1	2.58471	8.71E-08	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_398B16.2	3.253963	4.07E-07	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_3L21.2	-2.19141	0.000323	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_3N13.2	-2.51055	0.001362	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_402P6.9	3.104719	2.53E-19	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_414J4.2	3.032542	4.39E-06	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_416L21.2	2.864064	0.000322	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_420K14.1	-2.37061	0.000667	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_430H10.2	4.340271	5.77E-19	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_430H10.3	4.447112	1.22E-12	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_514F3.4	-2.19056	0.00069	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_527N22.2	3.641279	7.21E-27	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_544M22.1	-2.80409	8.37E-06	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_546K22.1	-2.3451	1.15E-07	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_557H15.3	2.435233	8.65E-21	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_563N6.6	2.260066	4.87E-05	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_589B3.6	-2.18491	1.35E-05	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_597M17.1	-2.92796	3.76E-06	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_616M22.12	-2.1792	0.001283	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_616M22.3	-2.01679	0.001468	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_616M22.7	2.057259	3.17E-06	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_63P12.7	3.031176	4.03E-06	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_641A6.3	-2.6912	4.38E-16	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_651K21.1	-2.0881	0.000108	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_677N16.1	2.105682	0.00015	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_706C16.7	2.34188	1.20E-13	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_707A18.1	-2.47376	3.46E-16	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_70D24.4	-2.2345	0.000559	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_716H6.2	-2.07487	0.002288	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_757O6.1	4.260138	2.52E-10	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_757O6.6	3.602933	3.69E-07	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_769N19.2	-2.11618	0.00079	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_7F17.7	3.302987	1.69E-06	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_800A3.3	-2.04195	0.000333	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_806H10.4	2.465089	3.69E-06	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_818F20.5	2.308988	1.92E-10	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_83M16.3	-2.50975	4.38E-05	GSE121212	L_N	Down	no	no	no	no	Human
+RP11_875O11.3	2.111506	0.003673	GSE121212	L_N	Up	no	no	no	no	Human
+RP11_973F15.2	-2.62451	3.28E-05	GSE121212	L_N	Down	no	no	no	no	Human
+RP3_495K2.4	-2.07895	0.000925	GSE121212	L_N	Down	no	no	no	no	Human
+RP4_529N6.2	3.187041	1.48E-25	GSE121212	L_N	Up	no	no	no	no	Human
+RP4_598P13.1	2.024984	1.72E-05	GSE121212	L_N	Up	no	no	no	no	Human
+RP4_733B9.1	-2.03802	0.000109	GSE121212	L_N	Down	no	no	no	no	Human
+RP4_735C1.4	-2.41366	1.14E-06	GSE121212	L_N	Down	no	no	no	no	Human
+RP4_736H5.3	-2.10505	0.00047	GSE121212	L_N	Down	no	no	no	no	Human
+RP4_782L23.2	-2.11891	0.00027	GSE121212	L_N	Down	no	no	no	no	Human
+RP4_784A16.2	2.198671	4.07E-05	GSE121212	L_N	Up	no	no	no	no	Human
+RP5_1011O1.2	-3.70308	6.79E-10	GSE121212	L_N	Down	no	no	no	no	Human
+RP5_1028K7.2	2.157944	3.75E-08	GSE121212	L_N	Up	no	no	no	no	Human
+RP5_1097P24.1	2.538438	1.15E-10	GSE121212	L_N	Up	no	no	no	no	Human
+RP5_1100I6.1	-2.2192	0.00012	GSE121212	L_N	Down	no	no	no	no	Human
+RP5_884M6.1	2.842545	0.003464	GSE121212	L_N	Up	no	no	no	no	Human
+RPL7AP15	-2.33009	1.58E-07	GSE121212	L_N	Down	no	no	no	no	Human
+RSU1P2	-2.46689	5.51E-05	GSE121212	L_N	Down	no	no	no	no	Human
+RTP2	2.538153	0.014855	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+SAA	2.121721	0.001919	GSE6012_L	L_N	Up	no	no	no	no	Human
+SAA1 /// SAA2	3.389914	0.002977	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+SLFN14	2.06649	0.042802	GSE6012_L	L_N	Up	no	no	no	no	Human
+SNORD39	3.497681	2.55E-08	GSE121212	L_N	Up	no	no	no	no	Human
+SPATA3_AS1	2.257	0.001072	GSE121212	L_N	Up	no	no	no	no	Human
+SPINK6	2.545663	2.87E-05	GSE121212	L_N	Up	no	no	no	no	Human
+SPRR2C	2.020955	2.68E-15	18_L	L_N	Up	no	no	no	no	Human
+SPRR2C	4.951067	6.78E-11	GSE121212	L_N	Up	no	no	no	no	Human
+SPRR2C	2.01	0.2	GSE59294	L_vs_NL	Up	no	no	no	no	Human
+TGM6	3.726407	2.86E-09	GSE121212	L_N	Up	no	no	no	no	Human
+TMEM146	2.066711	0.02313	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+TMEM159	2.493669	0.014855	GSE6012_L	L_N	Up	no	no	no	no	Human
+TMEM159	2.261739	0.007132	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+TMEM16A	2.390742	0.003191	GSE6012_L	L_N	Up	no	no	no	no	Human
+TMEM16D	2.589059	0.003762	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+TMIGD3	2.623084	4.86E-29	18_L	L_N	Up	no	no	no	no	Human
+TMIGD3	2.341267	9.45E-24	18_NL_N	NL_N	Up	no	no	no	no	Human
+TNPO1P2	4.023175	5.22E-06	GSE121212	L_N	Up	no	no	no	no	Human
+TNPO1P2	2.43	0.0027	GSE140227	L_N	Up	no	no	no	no	Human
+TNPO1P3	3.939488	1.50E-15	GSE121212	L_N	Up	no	no	no	no	Human
+TNPO1P3	2.23	0.0021	GSE140227	L_N	Up	no	no	no	no	Human
+TPD52L3	3.183101	0.001128	GSE6012_L	L_N	Up	no	no	no	no	Human
+TPD52L3	3.6246	0.000365	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+TRAJ9	2.164654	5.34E-05	GSE121212	L_N	Up	no	no	no	no	Human
+TRAV12_2	2.718418	1.16E-05	GSE121212	L_N	Up	no	no	no	no	Human
+TRAV12_3	2.038292	0.000153	GSE121212	L_N	Up	no	no	no	no	Human
+TRAV13_1	2.159123	5.71E-05	GSE121212	L_N	Up	no	no	no	no	Human
+TRAV14DV4	2.010957	0.003392	GSE121212	L_N	Up	no	no	no	no	Human
+TRAV17	2.323508	1.54E-05	GSE121212	L_N	Up	no	no	no	no	Human
+TRAV21	2.470483	4.93E-05	GSE121212	L_N	Up	no	no	no	no	Human
+TRAV23DV6	2.465408	0.000143	GSE121212	L_N	Up	no	no	no	no	Human
+TRAV29DV5	2.05527	0.000384	GSE121212	L_N	Up	no	no	no	no	Human
+TRAV38_2DV8	2.161035	0.004771	GSE121212	L_N	Up	no	no	no	no	Human
+TRBV19	2.131307	2.86E-05	GSE121212	L_N	Up	no	no	no	no	Human
+TRBV27	2.148404	0.000226	GSE121212	L_N	Up	no	no	no	no	Human
+TRBV29_1	2.407531	7.62E-08	GSE121212	L_N	Up	no	no	no	no	Human
+TRBV3_1	2.331668	0.000292	GSE121212	L_N	Up	no	no	no	no	Human
+TRBV6_5	2.492473	0.000127	GSE121212	L_N	Up	no	no	no	no	Human
+TRGV7	2.124477	0.0002	GSE121212	L_N	Up	no	no	no	no	Human
+TRIM48	2.075081	0.029493	GSE121212	L_N	Up	no	no	no	no	Human
+TRIM60P17	-2.61198	3.66E-06	GSE121212	L_N	Down	no	no	no	no	Human
+TTC18	2.429237	0.022486	GSE6012_L	L_N	Up	no	no	no	no	Human
+TTTY15	-2.39	0.06	GSE75890	L_N	Down	no	no	no	no	Human
+TXNDC6	2.675653	0.002279	GSE6012_L	L_N	Up	no	no	no	no	Human
+UGT2B31	2.076058	0.014855	GSE6012_NL	NL_N	Up	no	no	no	no	Human
+WDR78	2.313003	0.012876	GSE6012_L	L_N	Up	no	no	no	no	Human
+WDR78	2.404016	0.008775	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+WISP2	-3.37	9.00E-05	GSE16161	L_N	Down	no	no	no	no	Human
+XLOC_000974	-2.00935	7.55E-06	GSE121212	L_N	Down	no	no	no	no	Human
+XLOC_001242	-2.47405	1.08E-05	GSE121212	L_N	Down	no	no	no	no	Human
+XLOC_002825	3.771217	1.92E-19	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_003364	-2.05572	8.00E-06	GSE121212	L_N	Down	no	no	no	no	Human
+XLOC_003378	2.680094	2.35E-29	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_004197	2.046416	7.58E-10	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_004198	3.069477	2.18E-17	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_005041	-2.05438	1.21E-09	GSE121212	L_N	Down	no	no	no	no	Human
+XLOC_006578	-2.47269	0.000135	GSE121212	L_N	Down	no	no	no	no	Human
+XLOC_007053	3.967346	8.98E-42	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_007895	3.65497	5.87E-12	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_007955	2.381127	7.05E-09	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_008299	2.63022	0.001309	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_008878	3.266747	8.75E-16	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_008968	3.350754	9.97E-08	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_009602	3.991758	1.51E-34	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_009607	-2.30747	8.94E-07	GSE121212	L_N	Down	no	no	no	no	Human
+XLOC_011429	-3.05239	2.27E-09	GSE121212	L_N	Down	no	no	no	no	Human
+XLOC_011471	2.000029	4.06E-07	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_011520	2.544565	6.37E-06	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_012841	2.455161	2.58E-14	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_013095	2.043131	0.000379	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_013496	-3.56114	2.25E-09	GSE121212	L_N	Down	no	no	no	no	Human
+XLOC_013541	2.588549	9.80E-11	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_013542	2.587859	6.68E-07	GSE121212	L_N	Up	no	no	no	no	Human
+XLOC_014355	-2.66558	7.11E-06	GSE121212	L_N	Down	no	no	no	no	Human
+ZNF197	2.130454	0.005772	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+ZNF534	-2.01144	0.000297	GSE121212	L_N	Down	no	no	no	no	Human
+ZNF643	2.159294	0.048341	GSE6012_L	L_N	Up	no	no	no	no	Human
+ZNF643	2.182421	0.008775	GSE6012_L_NL	L_vs_NL	Up	no	no	no	no	Human
+ZNF728	-2.22486	1.22E-08	GSE121212	L_N	Down	no	no	no	no	Human
+	2.83	0.0141	GSE140227	L_N	Up	no	no	no	no	Human
+	2.22	0.0068	GSE140227	L_N	Up	no	no	no	no	Human
+	2.13	0.0011	GSE140227	L_N	Up	no	no	no	no	Human
+	2.07	0.0049	GSE140227	L_N	Up	no	no	no	no	Human
+	2.07	0.0246	GSE140227	L_N	Up	no	no	no	no	Human
+	-2.06	0.0031	GSE140227	L_N	Down	no	no	no	no	Human
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
